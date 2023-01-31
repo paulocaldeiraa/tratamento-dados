@@ -1,0 +1,1101 @@
+id,Nome Cargo,Senioridade,Setor,Criado_em,Upload_em
+e1b0521d-d8f3-4fdc-a49b-864af6e2d6d5,Auxiliar de serviços gerais,PLENO,Marketing,01-31-2023,01-31-2023
+f4125bdf-6024-4636-8f3e-92b78f2a52ca,Montador de negativos,PLENO,TI,01-31-2023,01-31-2023
+84817b60-cc6d-425d-9dc3-e1d8e4c8a48d,Agente de defesa sanitária,PLENO,RH,01-31-2023,01-31-2023
+52878cb9-4e49-434e-92a6-6c1198c074fa,Mestre cervejeiro,PLENO,Administrativo,01-31-2023,01-31-2023
+74d4021f-74f8-4965-b38e-5dcf23795908,Designer gráfico,PLENO,RH,01-31-2023,01-31-2023
+9c837ee4-da90-4031-8254-1244d64a9bad,Marceneiro,PLENO,Vendas,01-31-2023,01-31-2023
+baa0384c-898d-49f9-b1ae-f4d7605a6339,Jogador de vôlei,PLENO,Administrativo,01-31-2023,01-31-2023
+fc93919e-e458-4898-a29a-6ecab75b41a3,Cortador de cana-de-açucar,PLENO,Vendas,01-31-2023,01-31-2023
+1c33ab64-2e44-4bad-b7a8-e8b7c029a731,Tecnólogo em negócios imobiliários,PLENO,Marketing,01-31-2023,01-31-2023
+df5d7a64-6b6f-45f4-8abb-54adf575632a,Ombudsman,PLENO,TI,01-31-2023,01-31-2023
+ab4b6646-d3da-4dac-abdb-8c623b3df89c,Alfaiate,PLENO,Vendas,01-31-2023,01-31-2023
+fbbc67f3-c5cf-46d2-9180-8f11e4fb8a8d,Químico,PLENO,Vendas,01-31-2023,01-31-2023
+061df17e-fb79-4628-b585-1b37ec03f66b,Capitão,PLENO,Marketing,01-31-2023,01-31-2023
+137f7c42-e97a-4a12-bb5d-102a113bd17e,Controller,PLENO,RH,01-31-2023,01-31-2023
+d2d0fa3c-204a-4018-a6b1-534e932494ff,Bartender,PLENO,Administrativo,01-31-2023,01-31-2023
+adb8a9c6-421a-4dc1-bf0c-b849d4d28d22,Representante comercial,PLENO,Marketing,01-31-2023,01-31-2023
+bc607324-5818-4355-aa7c-1fafb02a2ebc,Coveiro/Sepultador,PLENO,RH,01-31-2023,01-31-2023
+32e345e4-e587-40ec-961c-73e460046927,Babá,PLENO,Administrativo,01-31-2023,01-31-2023
+0901d2ec-6e85-4fa3-a0d7-bb82f16ca79b,Headhunter,PLENO,RH,01-31-2023,01-31-2023
+d875b795-cb95-43e0-a3a8-c156a9b6b4bb,Tapeceiro,PLENO,TI,01-31-2023,01-31-2023
+d2cf9a73-a190-4e98-99b9-3ab1c06439c3,Moleiro,PLENO,Administrativo,01-31-2023,01-31-2023
+e66132f2-55b3-4339-8515-4322ed0c1d48,Paparazzo,PLENO,Marketing,01-31-2023,01-31-2023
+8dfa88dd-0915-4dda-b5d8-a009a0657327,Veterinário,PLENO,Administrativo,01-31-2023,01-31-2023
+dedabc93-b4b6-4970-84b7-4aabf047c1cb,Tecnólogo em produção Sucroalcooleira,PLENO,Vendas,01-31-2023,01-31-2023
+11e1bc5b-4c63-415f-a3dc-ac9c3943b85c,Administrador de redes,PLENO,Vendas,01-31-2023,01-31-2023
+f9f8a14c-91cb-42eb-80df-e42615384816,Cadista,PLENO,Vendas,01-31-2023,01-31-2023
+8d7be6b6-409f-429f-bf83-83006202b9a5,Geofísico,PLENO,Vendas,01-31-2023,01-31-2023
+67404018-b9a9-451c-9249-83740fe274b7,Tecnólogo em tecnologia da madeira,PLENO,RH,01-31-2023,01-31-2023
+821db10d-b80d-4ec8-89f8-9750a813cbaa,Vendedor,PLENO,Marketing,01-31-2023,01-31-2023
+fbcb299a-d402-4ebf-b8d6-c65cb8c0825f,Almoxarife,PLENO,Administrativo,01-31-2023,01-31-2023
+82d8a21a-759f-4d91-82a6-b7d3c9784e5f,Vigilante noturno/diurno,PLENO,TI,01-31-2023,01-31-2023
+1ed2fa35-11f5-470c-a36e-b5daca3d68fd,Agente de defesa sanitária,PLENO,Administrativo,01-31-2023,01-31-2023
+8d281af1-8c76-469f-a16a-53214b33aa6f,Necromaquiador,PLENO,TI,01-31-2023,01-31-2023
+5a1abfdf-5951-4e76-9f53-85a4fdbd6059,Instalador de painéis,PLENO,Marketing,01-31-2023,01-31-2023
+f8e62f31-662d-4dca-bce4-8277ccb6015b,Senador,PLENO,Administrativo,01-31-2023,01-31-2023
+80c4e8f1-ae69-458a-a4e5-96dc932c779b,Lutador de karatê,PLENO,Marketing,01-31-2023,01-31-2023
+5a53af99-48c4-48d6-b75e-8f5f40381e8f,Cozinheira,PLENO,Administrativo,01-31-2023,01-31-2023
+fd6d7edd-1531-45df-ab06-d4f9423c4c5f,Mensageiro,PLENO,RH,01-31-2023,01-31-2023
+a24e4885-f38f-477b-a52d-ddf84f4763a8,Técnico em hardware,PLENO,TI,01-31-2023,01-31-2023
+eb4a6ea9-3a6e-4cc6-9519-c55bca3e45d4,Biotecnólogo,PLENO,RH,01-31-2023,01-31-2023
+becbea52-59fb-4e82-92df-21f04a50187b,Engenheiro de processos,PLENO,Marketing,01-31-2023,01-31-2023
+94b9b793-d710-46c7-a335-c74631b5ccb1,Pescador,PLENO,TI,01-31-2023,01-31-2023
+9f29bf3d-3e1e-478b-bb65-aa652d0ace61,Crítico,PLENO,Marketing,01-31-2023,01-31-2023
+2dd56b27-3b5c-4743-9b3b-c54f44e9cede,Engenheiro químico,PLENO,RH,01-31-2023,01-31-2023
+52e21914-3985-4c11-b558-d92fa4e8a216,Torreiro/Torrista,PLENO,Vendas,01-31-2023,01-31-2023
+b2ded9e3-c3f9-45ee-984f-9300fa0f994c,Lutador de karatê,PLENO,Marketing,01-31-2023,01-31-2023
+ddcba8d3-fa67-4965-9cd0-fe6ec8ed9709,Bartender,PLENO,Marketing,01-31-2023,01-31-2023
+3b1adaa5-ce0f-4f5e-8204-af206be64b16,Tenente,PLENO,RH,01-31-2023,01-31-2023
+2ed308b0-e008-4ad6-84b1-79e6b0934537,Empresário,PLENO,Vendas,01-31-2023,01-31-2023
+2737be1f-66b7-4e03-b620-72f87ed5bb96,Engenheiro de supply chain ou logística,PLENO,TI,01-31-2023,01-31-2023
+f1d0a6b8-1622-4d7c-9ff8-47fe0b735c44,Coloproctologista,PLENO,Vendas,01-31-2023,01-31-2023
+bb5d60e5-4955-4c95-8e6c-77e98d5f2469,Cancerologista ou Oncologista,PLENO,RH,01-31-2023,01-31-2023
+c580dcdd-94b3-4ca6-8bad-fc39b72f10d7,Contra regra,PLENO,Administrativo,01-31-2023,01-31-2023
+d69cc21d-fa59-4ec9-a804-07246af801c9,Policial federal,PLENO,Vendas,01-31-2023,01-31-2023
+1fc4ae79-3ce9-4f4c-ae5b-9afb22d3ae06,Fresador,PLENO,Administrativo,01-31-2023,01-31-2023
+d376c896-b5fc-4193-b13f-5a67e06d6ea5,Engenheiro químico,PLENO,RH,01-31-2023,01-31-2023
+ffc07447-daa6-41e7-9dc6-eaea298e55b8,Necromaquiador,PLENO,Administrativo,01-31-2023,01-31-2023
+3037d88f-f2d4-4f63-a017-e7e8a285d518,Diagramador,PLENO,Vendas,01-31-2023,01-31-2023
+b2bdf674-3e97-4c85-af5e-5944899f2992,Representante comercial,PLENO,Vendas,01-31-2023,01-31-2023
+867343dc-8e1b-409a-bd1b-056ff68439f7,Ferramenteiro,PLENO,TI,01-31-2023,01-31-2023
+fb22c311-e95d-407a-b22b-7428ed27584e,Tecnólogo em processos químicos,PLENO,TI,01-31-2023,01-31-2023
+7ec76663-a2d5-4363-b828-74c5722da80e,Implantodontista,PLENO,Administrativo,01-31-2023,01-31-2023
+5fe3c343-6f14-46db-ae88-63b96374cd81,Caldeireiro,PLENO,TI,01-31-2023,01-31-2023
+886f0fdc-fed1-46a5-8212-bc5cd74157fb,Lutador de karatê,PLENO,Marketing,01-31-2023,01-31-2023
+022d34c7-f373-4043-8c7c-fd4b39031b64,Orçamentista,PLENO,Marketing,01-31-2023,01-31-2023
+9faba5bc-92ef-4d2f-aac8-111a5f91f8cf,Timoneiro,PLENO,TI,01-31-2023,01-31-2023
+6246b146-802d-462c-95e6-2426e0e51484,Engenheiro agrimensor,PLENO,Marketing,01-31-2023,01-31-2023
+82725cd9-b261-4464-9326-3fc8b7bd546c,Psicopedagogo,PLENO,TI,01-31-2023,01-31-2023
+a7c75af8-21a3-4a74-bd74-786e387caccd,Tecnólogo em esporte e lazer,PLENO,RH,01-31-2023,01-31-2023
+406b9a3e-e160-49e6-89b8-9265c5844385,Vigilante noturno/diurno,PLENO,Administrativo,01-31-2023,01-31-2023
+8c30e3b6-d501-49fa-8da0-2177666e094a,Angiologista,PLENO,Marketing,01-31-2023,01-31-2023
+3dd51886-c371-47d2-aa57-6446e34b1625,Numerólogo,PLENO,Administrativo,01-31-2023,01-31-2023
+ed6b7c6b-9889-4454-a2a3-d476c3a9cd59,Comissário de bordo,PLENO,TI,01-31-2023,01-31-2023
+55df6875-0704-4dc5-9947-64ed6b13fc03,Operador de bombas,PLENO,Marketing,01-31-2023,01-31-2023
+3912ab8d-46d3-4d5d-a487-8da285f3d739,Esteticista,PLENO,RH,01-31-2023,01-31-2023
+b936a8e6-2005-4f3a-adf3-82427cc25395,Psicopedagogo,PLENO,Administrativo,01-31-2023,01-31-2023
+82394810-0a52-4773-93f3-18a12214d821,Pesquisador,PLENO,Vendas,01-31-2023,01-31-2023
+de40aa4f-7faf-4474-9ca7-42c466fff97b,Odontologista estético,PLENO,Marketing,01-31-2023,01-31-2023
+63846624-3bfe-4906-8132-400fa4e5374c,Sexólogo,PLENO,RH,01-31-2023,01-31-2023
+b42ea331-0dfa-4a52-b092-6fa0f30b02c8,Cadeirinha,PLENO,Administrativo,01-31-2023,01-31-2023
+031eb7de-ee90-4a35-a55a-2008858d240f,Carpinteiro,PLENO,TI,01-31-2023,01-31-2023
+d2832705-84d4-4863-8716-2e7129d5e4ea,Ginasta artística,PLENO,RH,01-31-2023,01-31-2023
+00f77457-0a27-4046-86d5-5be2ee6ef1e6,Dublê,PLENO,Marketing,01-31-2023,01-31-2023
+8cb23881-bf78-43f8-85f2-d64ceaca12d2,Harpista,PLENO,Administrativo,01-31-2023,01-31-2023
+6b6640aa-c02b-46bd-a5ea-ec01c0462ab1,Engenheiro metalúrgico,PLENO,Vendas,01-31-2023,01-31-2023
+30ae47c9-d404-472d-bb3b-cc11a720b304,Delegado,PLENO,Vendas,01-31-2023,01-31-2023
+b4a78eac-1379-4c61-a281-e4827f3e774f,Somelier,PLENO,Vendas,01-31-2023,01-31-2023
+2691c3e7-d870-4f74-ad7b-3780ddc333e9,Coveiro/Sepultador,PLENO,Vendas,01-31-2023,01-31-2023
+7e4376ce-0b8f-4c35-9b02-be332b47ed1d,Empacotador,PLENO,RH,01-31-2023,01-31-2023
+432dc280-ec0f-4020-b287-f731f56fef27,Militar da Marinha,PLENO,RH,01-31-2023,01-31-2023
+c93eb99b-9067-4559-b2ee-abc6e92ca5ae,Lavador,PLENO,Marketing,01-31-2023,01-31-2023
+edf0533a-bfbe-40a5-9a9c-b0965dba52d2,Tecnólogo em produção de bebidas,PLENO,TI,01-31-2023,01-31-2023
+8ca74cd5-2426-4d53-9cf2-227011ac2600,Secretária,PLENO,RH,01-31-2023,01-31-2023
+b7f1a0da-89e6-4b67-8083-0b9a7b0aa285,Retificador,PLENO,Administrativo,01-31-2023,01-31-2023
+5bc71bcb-f4df-42f3-aa12-55b999fd40e8,Sexólogo,PLENO,Administrativo,01-31-2023,01-31-2023
+a54e5eb7-4e4e-4490-831f-3b5611222b3f,Vereador,PLENO,Vendas,01-31-2023,01-31-2023
+8c749fb9-ad8a-456a-a6c6-276f9e6cf77f,Garçom,PLENO,RH,01-31-2023,01-31-2023
+59d4f54f-7c87-4167-b639-23db0bb91196,Barman,PLENO,Marketing,01-31-2023,01-31-2023
+c922f219-80b1-45c2-8431-7a2483f880c2,Cineasta,PLENO,TI,01-31-2023,01-31-2023
+f9dd7dd0-bfc1-4215-a9f6-e51c46b33dc5,Técnico em taquigrafia,PLENO,TI,01-31-2023,01-31-2023
+0aad167f-949f-4f63-8704-38907bcfded4,Engenheiro de produção agroindustrial,PLENO,RH,01-31-2023,01-31-2023
+c38dd6cd-4c2c-4d02-86d7-b4c393c7a783,Armador,PLENO,RH,01-31-2023,01-31-2023
+d5b65213-0023-42dd-a050-a67961c9cfc2,Cinegrafista,PLENO,RH,01-31-2023,01-31-2023
+4aba3da9-ce10-489a-81b5-4a4828ace574,Webdesigner,PLENO,TI,01-31-2023,01-31-2023
+6697b79f-cebf-482a-bdd6-8e85a19cb6ff,Gerente de riscos em seguros,PLENO,Administrativo,01-31-2023,01-31-2023
+84606ef9-4872-4d49-97f7-7cfb43b2840d,Cenógrafo,PLENO,Marketing,01-31-2023,01-31-2023
+1e1a903b-6e43-4061-8595-1e61676eef6c,Designer gráfico,PLENO,Marketing,01-31-2023,01-31-2023
+b7662e16-fcf4-412c-87d0-8b4e03443f7b,Engenheiro de transportes,PLENO,Administrativo,01-31-2023,01-31-2023
+1bf0ef20-123b-4a20-abeb-d0276afda164,Engenheiro de processos,PLENO,RH,01-31-2023,01-31-2023
+1fc6d4f5-39be-40cd-af13-323f6d7ff8ad,Bioquímico,PLENO,Administrativo,01-31-2023,01-31-2023
+a7467deb-c329-4e1d-869a-b464c0629254,Bombeiro,PLENO,Vendas,01-31-2023,01-31-2023
+516d5fc7-b238-418b-9265-2d3e2b226fa8,Engenheiro aeronáutico,PLENO,Marketing,01-31-2023,01-31-2023
+85221a3e-235f-4d07-88a5-62228a2d726b,Jardineiro,PLENO,RH,01-31-2023,01-31-2023
+465986e0-81d8-41df-9652-6232d30fd2d2,Dedetizador,PLENO,Marketing,01-31-2023,01-31-2023
+62652ddd-3aa8-4e66-85d9-12fb5ad19787,Guincheiro,PLENO,Marketing,01-31-2023,01-31-2023
+ce5358f2-af37-4648-9eed-e70f4401a732,Enfermeiro,PLENO,Vendas,01-31-2023,01-31-2023
+ceba6452-8c42-4a67-9a90-d1021e21c545,Viveirista,PLENO,Administrativo,01-31-2023,01-31-2023
+5f35cb43-a3b4-43e2-bb13-3c35f5f83765,Profissional de relações públicas,PLENO,Administrativo,01-31-2023,01-31-2023
+7c3bdc72-b93b-4be8-8a62-59e11f5411d7,Dermatologista,PLENO,Administrativo,01-31-2023,01-31-2023
+d1ff078b-ac60-4037-b8a2-bb5a6364ba09,Cantor,PLENO,Marketing,01-31-2023,01-31-2023
+ba13bc38-4f00-4c88-947d-5b807fb04613,Tecnólogo em jogos digitais,PLENO,Marketing,01-31-2023,01-31-2023
+1924138d-f394-4fcf-91fd-fca21f7cf9f6,Engenheiro de supply chain ou logística,PLENO,Administrativo,01-31-2023,01-31-2023
+54eb9a7f-baeb-4755-aa4d-5c717f5c6734,Auxiliar de serviços gerais,PLENO,Vendas,01-31-2023,01-31-2023
+d4405203-b06d-430d-b0bd-eb24c4178a6f,Encarregado de manutenção predial,PLENO,RH,01-31-2023,01-31-2023
+d27f48e1-5812-49b6-867c-e9f828a958c7,Cenógrafo,PLENO,Administrativo,01-31-2023,01-31-2023
+9d81f024-6378-4a93-8d6d-9b567469f72d,Técnico em documentação,PLENO,Marketing,01-31-2023,01-31-2023
+6617920b-8a34-4e8f-85ae-32429b10f38e,Pedagogo,PLENO,Marketing,01-31-2023,01-31-2023
+9eed1396-b6bd-4b43-8949-f2853f324659,Engenheiro têxtil,PLENO,Administrativo,01-31-2023,01-31-2023
+0a434107-3ac4-4efe-81e4-9200100a709f,Dançarino,PLENO,Vendas,01-31-2023,01-31-2023
+fbfbf8df-489e-409c-b52d-8c238763159c,Aeronauta,PLENO,Administrativo,01-31-2023,01-31-2023
+47274aa2-2a15-4b9b-be92-1ccb2a86900b,Museólogo,PLENO,Marketing,01-31-2023,01-31-2023
+163acdac-fc77-4f9c-a4f7-9af784e8b6d9,Copeiro,PLENO,TI,01-31-2023,01-31-2023
+ddfdd549-9180-4c03-b72f-a35ab449e75b,Delegado,PLENO,TI,01-31-2023,01-31-2023
+5970285f-aa27-4405-bf7b-0e3a475e2109,Radioterapêutico,PLENO,RH,01-31-2023,01-31-2023
+c658a437-3c5b-4141-a699-9d3f5e360f84,Mensageiro,PLENO,Marketing,01-31-2023,01-31-2023
+9f567d6e-e18d-4382-bbca-b000aec9ed9f,Montador,PLENO,TI,01-31-2023,01-31-2023
+8be846fc-9bd6-4c0c-8fe9-8d756244f0a9,Cozinheira,PLENO,TI,01-31-2023,01-31-2023
+c68b497a-48a5-40ae-aab3-0fd0e98ed4a8,Florista,PLENO,RH,01-31-2023,01-31-2023
+3d05149b-ed3d-414c-afb5-bc123110f178,Açougueiro,PLENO,Marketing,01-31-2023,01-31-2023
+f45e4ef3-4aa0-449c-955a-3ab0b5b13ed0,Ajudante de produção,PLENO,TI,01-31-2023,01-31-2023
+c2481600-08e0-4a0a-8181-60696e836c75,Engenheiro de computação,PLENO,TI,01-31-2023,01-31-2023
+f6ba89bf-41a8-4528-8557-5a612c04e425,Infectologista,PLENO,Administrativo,01-31-2023,01-31-2023
+25d43814-f4ef-4b7b-b4e8-f0394d0f355f,Jogador de basquete,PLENO,TI,01-31-2023,01-31-2023
+f4f4a26c-8916-4ee0-a7e8-013727bf0276,Gravurista,PLENO,TI,01-31-2023,01-31-2023
+8bc735b5-8ef0-41cf-8b98-2cfaa504dc8c,Harpista,PLENO,RH,01-31-2023,01-31-2023
+5e27241c-981b-4573-bcdb-68c781cff0a0,Apontador de mão-de-obra,PLENO,Administrativo,01-31-2023,01-31-2023
+1a55df65-64d9-4bc0-809c-02f6434f0240,Gerente de vendas,PLENO,RH,01-31-2023,01-31-2023
+cb70eecf-2087-4fde-b389-ad638685b1aa,Lubrificador de máquinas,PLENO,Vendas,01-31-2023,01-31-2023
+0711997f-40c3-4ba2-84a4-7ff2dbf73de6,Guardador de veículos,PLENO,Vendas,01-31-2023,01-31-2023
+230dd0cd-8f85-4649-b230-5f499ca243bc,Cinegrafista,PLENO,Administrativo,01-31-2023,01-31-2023
+e1b95110-ee0c-4c3b-971e-b30665d929d1,Técnico em agropecuária,PLENO,Marketing,01-31-2023,01-31-2023
+80037906-6b30-4dc7-a903-7b770ed06f40,Remador,PLENO,RH,01-31-2023,01-31-2023
+5304745e-44c6-4c43-b4cd-6b4704b5a5f2,Engraxate,PLENO,Vendas,01-31-2023,01-31-2023
+730794dc-df14-45f8-b25e-56c531469c76,Médico geneticista,PLENO,Marketing,01-31-2023,01-31-2023
+8545f2ac-f6aa-4edd-b59c-03483e26e15c,Biólogo,PLENO,Marketing,01-31-2023,01-31-2023
+4d1df9ed-0ff8-43f0-873d-903e13ff5dcd,Orçamentista,PLENO,Marketing,01-31-2023,01-31-2023
+85ddc409-95f2-4665-bc48-063655bd0fca,Militar do Exército,PLENO,Marketing,01-31-2023,01-31-2023
+d13de252-fa1d-44da-9e07-503652dc5759,Imunologista,PLENO,RH,01-31-2023,01-31-2023
+e7d3b3f1-df13-4229-8c40-413e7a6ce702,Advogado,PLENO,Vendas,01-31-2023,01-31-2023
+00e3178e-875c-4fa1-91d5-69f9ed293d02,Assistente de direção,PLENO,Vendas,01-31-2023,01-31-2023
+787f656a-40b5-4521-b0fb-f9d906f9ed3d,Pesquisador,PLENO,TI,01-31-2023,01-31-2023
+aca6d4b0-54dc-45fe-80f9-092dccf10790,Conferente de recebimento,PLENO,TI,01-31-2023,01-31-2023
+efc09f4a-3da6-426f-b03b-198c068d7094,Terapeuta floral,PLENO,Administrativo,01-31-2023,01-31-2023
+2f54ec2d-cbac-4369-8547-e049393ce7af,Estofador,PLENO,Vendas,01-31-2023,01-31-2023
+15e19be0-e9d7-4f64-9f22-8e80b6b72022,Transcritor,PLENO,Vendas,01-31-2023,01-31-2023
+197e8bff-97c5-44c4-8c82-21b73f383a17,Técnico em higiene dentária,PLENO,TI,01-31-2023,01-31-2023
+d52c76a0-31c4-4be3-9703-9524cc4cc98f,Plastimodelista,PLENO,RH,01-31-2023,01-31-2023
+8515214a-d741-40a6-ae38-2d38e06d43fc,Agrimensor,PLENO,TI,01-31-2023,01-31-2023
+58fe5fb5-8de5-4a03-b861-0dc2c28de882,Psiquiatra,PLENO,TI,01-31-2023,01-31-2023
+81fbc089-46cd-4d96-b2a1-7e35a42bd8ea,Anestesiologista,PLENO,RH,01-31-2023,01-31-2023
+496e45e3-008d-430e-bd5d-15e4171fc1c5,Apicultor,PLENO,Administrativo,01-31-2023,01-31-2023
+b589d4b5-a00a-47a6-a627-e26f8c4e4baf,Gestor de tecnologia da informação,PLENO,RH,01-31-2023,01-31-2023
+9b25be44-20cd-4dd6-bf63-3ae9b3642e79,Capoeirista,PLENO,RH,01-31-2023,01-31-2023
+7917321f-b51c-403d-9d90-033c9956fedd,Cientista de alimentos,PLENO,Vendas,01-31-2023,01-31-2023
+8422bdeb-435f-42c6-8398-0b161adba425,Dublador,PLENO,Marketing,01-31-2023,01-31-2023
+7d6dce9d-7da5-4646-bff5-0a93213816df,Engenheiro de produção agroindustrial,PLENO,Administrativo,01-31-2023,01-31-2023
+b14b3af9-821d-4b15-b7c1-6c730c438a11,Geofísico,PLENO,TI,01-31-2023,01-31-2023
+3a2ee8d2-b0e7-4809-85e3-fe293cd7ef90,Político,PLENO,Vendas,01-31-2023,01-31-2023
+5a1e6ba6-4360-46ac-8e34-bacdb8ef1bcc,Filósofo,PLENO,Administrativo,01-31-2023,01-31-2023
+97e59b73-af8a-4292-8b78-5a8e1ef39472,Administrador de banco de dados DBA,PLENO,Administrativo,01-31-2023,01-31-2023
+087ee6bc-33dd-4d9d-abae-a265ed368ec2,Cobrador de pedágio,PLENO,Vendas,01-31-2023,01-31-2023
+8a3b4490-1d67-49a7-918e-0b74e1fec194,Webdesigner,PLENO,Marketing,01-31-2023,01-31-2023
+78a30e72-f3ff-49d7-8967-ce87a7af38f3,Físico,PLENO,TI,01-31-2023,01-31-2023
+09ab9154-544c-4233-9928-3209e0bb0b5b,Encarregado de manutenção predial,PLENO,Marketing,01-31-2023,01-31-2023
+400ab4fb-2a6e-4388-a10b-e603af3abaac,Maquinista,PLENO,RH,01-31-2023,01-31-2023
+405bf23b-0a27-4ad6-939a-cd591f13dd60,Zelador,PLENO,Vendas,01-31-2023,01-31-2023
+c5a0799f-87fc-4ac1-8900-ee549ba1abc0,Ufólogo,PLENO,Marketing,01-31-2023,01-31-2023
+a748df4e-308e-4895-8d70-9970a5d253e8,Engenheiro civil,PLENO,RH,01-31-2023,01-31-2023
+fadd96d0-0cf1-4e78-8edb-3c5366bc518e,Controlador de vôo,PLENO,Vendas,01-31-2023,01-31-2023
+4246c683-b700-44d3-b523-02bd2a3d9d7e,Guincheiro,PLENO,Vendas,01-31-2023,01-31-2023
+69ce64d7-254d-42ec-be40-50da3f7be07b,Engenheiro físico,PLENO,Marketing,01-31-2023,01-31-2023
+73af785e-6672-4266-92f5-536dd6ab5c84,Protesista,PLENO,TI,01-31-2023,01-31-2023
+8f5a8a03-152d-418e-a159-e531cee2097f,Lavador,PLENO,TI,01-31-2023,01-31-2023
+fbbd5239-2662-4443-815f-497465f9e380,Instrumentista musical,PLENO,TI,01-31-2023,01-31-2023
+919a15a6-76ea-43c7-a2a1-ab82dcd33b80,Cenógrafo,PLENO,Marketing,01-31-2023,01-31-2023
+87a60362-8ece-4f33-9648-6ea140bddd24,Torreiro/Torrista,PLENO,Marketing,01-31-2023,01-31-2023
+2adafb12-9fdf-42f8-9aae-4d88c99dd2f3,Oculista,PLENO,Vendas,01-31-2023,01-31-2023
+a12b1aea-ee0f-4e6a-9f03-5494a96e7403,Cobaia Médica,PLENO,RH,01-31-2023,01-31-2023
+0ab5bdae-6d42-45dd-b872-b9ac799ed8a8,Broker/Corretor da bolsa de valores,PLENO,Marketing,01-31-2023,01-31-2023
+aff28d62-efab-4e02-9d53-3ec9a1dc98e1,Profissional de recursos humanos,PLENO,Vendas,01-31-2023,01-31-2023
+6d9d1425-c965-412c-add5-f8137c55a294,Garimpeiro,PLENO,Vendas,01-31-2023,01-31-2023
+f1e207f1-b3c1-4854-9c0c-f1e4a4e28449,Despachante,PLENO,RH,01-31-2023,01-31-2023
+b1155e79-a27e-4a0f-b9a1-e6d71b6a3034,Tecnólogo em rochas ornamentais,PLENO,Marketing,01-31-2023,01-31-2023
+627a8168-5ae4-410e-9bfc-d764505c1591,Juiz de futebol,PLENO,Vendas,01-31-2023,01-31-2023
+78aa30e8-9c07-4dab-bfb0-601af78af6b4,Radialista,PLENO,TI,01-31-2023,01-31-2023
+a089d87f-f047-40a1-b7ee-0ea7d15f2cbe,Antropólogo,PLENO,Vendas,01-31-2023,01-31-2023
+33b0ad78-fbc7-4ed0-a211-1d31b8bf2e19,Biotecnólogo,PLENO,Marketing,01-31-2023,01-31-2023
+1767922b-3d1e-4689-89f0-42e2e1d6f364,Artista de circo,PLENO,Administrativo,01-31-2023,01-31-2023
+4c09aed9-f1e6-4334-954a-a3b7730abef4,Físico nuclear,PLENO,Marketing,01-31-2023,01-31-2023
+b7a7bc3e-92f8-4ab3-90e9-567996d984ce,Geógrafo,PLENO,Marketing,01-31-2023,01-31-2023
+e47c7cc8-b643-4f0e-b112-8c5617fc49c2,Somelier,PLENO,Vendas,01-31-2023,01-31-2023
+d011c8d3-87cd-4285-a797-d27c9ba4ddb1,Zelador,PLENO,RH,01-31-2023,01-31-2023
+d86704bf-9444-4327-9ca7-7f0f683939a4,Soldador,PLENO,Vendas,01-31-2023,01-31-2023
+c873d88a-29bf-4c90-82c5-dc62fba380a6,Lancheiro,PLENO,RH,01-31-2023,01-31-2023
+8a3b6f10-0037-4517-9afd-2aa83c3befa9,Torreiro/Torrista,PLENO,Marketing,01-31-2023,01-31-2023
+f06ef79d-2c40-4459-ae23-122fb6932ca0,Lenhador,PLENO,RH,01-31-2023,01-31-2023
+662e1f44-397e-4f12-a6fa-df8cf41d645b,Técnico em agropecuária,PLENO,Marketing,01-31-2023,01-31-2023
+7b0c3ebb-d5cc-458b-929c-519c9cbfabdf,Defensor Público,PLENO,Administrativo,01-31-2023,01-31-2023
+fa654370-5085-404a-bdbe-e97f74c481e4,Motofrete,PLENO,Marketing,01-31-2023,01-31-2023
+49012875-ed2e-4cb7-91fb-573fa1efd394,Moldureiro,PLENO,Administrativo,01-31-2023,01-31-2023
+a6695897-2454-4625-8f42-0086564bdeea,Artesão,PLENO,Marketing,01-31-2023,01-31-2023
+a990d031-3b56-4349-a661-bd45cedfeb25,Taxidermista/Embalsamador,PLENO,TI,01-31-2023,01-31-2023
+42597f09-9778-49ab-b8a5-4999c5b81c04,Agente de defesa sanitária animal,PLENO,Vendas,01-31-2023,01-31-2023
+39f6e29c-8bf1-4757-866e-dc8d14adbf12,Berçarista,PLENO,TI,01-31-2023,01-31-2023
+300b166c-f466-4aeb-b5a1-1103699c1b38,Engenheiro florestal,PLENO,Administrativo,01-31-2023,01-31-2023
+a42ea46e-6cb4-4b13-9ca6-d920410d52c0,Gestor público,PLENO,TI,01-31-2023,01-31-2023
+b448660f-f09e-4a3d-900e-b93b8a2b3aae,Administrador de banco de dados DBA,PLENO,Administrativo,01-31-2023,01-31-2023
+e851d3fb-3689-43b7-90da-e61872006276,Revendedor,PLENO,RH,01-31-2023,01-31-2023
+1cd598b6-73b7-4ea3-860e-c98d8ea1c924,Policial militar,PLENO,Marketing,01-31-2023,01-31-2023
+6c558a99-eacd-44e7-8d40-2a50a1e7513d,Apresentador,PLENO,RH,01-31-2023,01-31-2023
+f6a16df5-d34d-42ae-ad84-ff0884ef2216,Bailarina,PLENO,Administrativo,01-31-2023,01-31-2023
+94cae2ac-be3a-41cb-80bf-d27bb7bfa5e5,Professor,PLENO,Vendas,01-31-2023,01-31-2023
+81b7c14a-d008-4ad4-ae65-8bb20ba1fadb,Carnavalesco,PLENO,RH,01-31-2023,01-31-2023
+babb5e23-dd0e-4f89-9e69-805e5890d944,Coordenador,PLENO,Vendas,01-31-2023,01-31-2023
+bcd5af20-71b3-47e9-bb2e-659a2888f40c,Taxidermista/Embalsamador,PLENO,RH,01-31-2023,01-31-2023
+071d697a-d17c-4a65-bb85-adbeac0c27f4,Velejador,PLENO,RH,01-31-2023,01-31-2023
+cbc3919c-57e5-48a9-9e9c-df364ebe5412,Educador integrado à saúde pública,PLENO,Administrativo,01-31-2023,01-31-2023
+404df8f1-5948-4505-9930-2410f74e9c9b,Topógrafo,PLENO,Administrativo,01-31-2023,01-31-2023
+ef88acfd-d7e2-4028-984d-879a6d3d332e,Artista plástico,PLENO,RH,01-31-2023,01-31-2023
+3bd10ae0-6ca9-4636-860a-352eaada4b46,Psicopedagogo,PLENO,Vendas,01-31-2023,01-31-2023
+443f2cc6-7c93-4188-aa02-0af2385c16bd,Engenheiro petroquímico,PLENO,Vendas,01-31-2023,01-31-2023
+1a44e965-e6d4-4a70-a982-8995fa2d79f5,Recreador,PLENO,Vendas,01-31-2023,01-31-2023
+7aa464b1-589a-48d5-97ac-264a7690a65b,Chaveiro,PLENO,RH,01-31-2023,01-31-2023
+8fb4377c-9b5a-4728-af3f-c7d62cf197d1,Ambulante,PLENO,Vendas,01-31-2023,01-31-2023
+be93bde0-13d4-4130-97f5-90441187e04d,Bailarina,PLENO,Marketing,01-31-2023,01-31-2023
+a8c7cffc-453d-4f0d-97f2-775d52a85f86,Líder comunitário,PLENO,Administrativo,01-31-2023,01-31-2023
+34076bf8-d3ef-407f-a98f-235a195330d4,Guincheiro,PLENO,Vendas,01-31-2023,01-31-2023
+d91566a0-4b51-4fd8-a7a3-8d89acb369f6,Tecnólogo em negócios imobiliários,PLENO,Marketing,01-31-2023,01-31-2023
+283c0630-fd8f-4012-9507-9e9aedb00e9a,Representante comercial,PLENO,RH,01-31-2023,01-31-2023
+85fe6fe6-cd9c-45e5-b3d8-1c23480b64a6,Baixista,PLENO,TI,01-31-2023,01-31-2023
+6d1d4f5a-7e04-42ee-a13b-e23ab76ed17d,Produtor de eventos,PLENO,Marketing,01-31-2023,01-31-2023
+d43930cf-9027-4ede-b27f-658485025a9c,Corretor de imóveis,PLENO,TI,01-31-2023,01-31-2023
+1207389d-a4d2-409f-9db9-adbadc9b69c5,Biblioteconomista,PLENO,Administrativo,01-31-2023,01-31-2023
+874f0890-df0c-4157-80b1-a4c24a39ce95,Ambulante,PLENO,Vendas,01-31-2023,01-31-2023
+41f575a8-61ed-465b-996e-2e86c7a32208,Diretor de cinema,PLENO,RH,01-31-2023,01-31-2023
+767cdf51-af91-4017-b183-e0a07996e99d,Músico,PLENO,RH,01-31-2023,01-31-2023
+820eca17-dacc-4dc6-b5c0-4675299ce3e5,Dogueiro,PLENO,Administrativo,01-31-2023,01-31-2023
+191e3da5-c9f7-4fff-ad9d-a01108024334,Contábil,PLENO,RH,01-31-2023,01-31-2023
+9e96f3c2-9887-4da4-a845-51534e681418,Programador,PLENO,Administrativo,01-31-2023,01-31-2023
+0f7df622-98d2-4b0d-b8f6-aae73220f6f9,Comandante,PLENO,Vendas,01-31-2023,01-31-2023
+9f599aa5-4cf7-43a9-9124-29313d0bf3ef,Astrônomo,PLENO,Marketing,01-31-2023,01-31-2023
+48132358-5d6d-467d-a890-2e9eb1a855f0,Cobaia Médica,PLENO,TI,01-31-2023,01-31-2023
+9c8d42be-98e9-44bd-b315-c04ce07cf6fc,Profissional de informática,PLENO,Marketing,01-31-2023,01-31-2023
+74df5fcb-2357-4e02-bcec-6da749f8504f,Telefonista,PLENO,TI,01-31-2023,01-31-2023
+68081413-ecc3-4da0-9d29-491ecfb71bc0,Embalador,PLENO,RH,01-31-2023,01-31-2023
+3a48d3a3-aaad-48ee-88a3-f00c8bc7b8fb,Ilustrador,PLENO,Marketing,01-31-2023,01-31-2023
+1434ff25-1a1c-43f5-a3d1-1876e742ec0f,Tecnólogo em negócios imobiliários,PLENO,Administrativo,01-31-2023,01-31-2023
+139f2e33-0110-4848-b2d5-9106e0e7165d,Secretária,PLENO,TI,01-31-2023,01-31-2023
+75811a4d-aabd-459e-a3ea-476d452d76ed,Psicólogo,PLENO,Marketing,01-31-2023,01-31-2023
+fae51a6d-fc03-4e72-a393-a1f5a3325b26,Bibliotecário,PLENO,Administrativo,01-31-2023,01-31-2023
+9afa8ff0-e923-4ea5-aec8-358a152d1b88,Ministro,PLENO,Marketing,01-31-2023,01-31-2023
+497446b2-bfac-40f7-a848-a10c4e3c32c3,Lamboteiro,PLENO,TI,01-31-2023,01-31-2023
+84ef557a-9c41-49a5-b4db-1e670edd35e0,Cenógrafo,PLENO,RH,01-31-2023,01-31-2023
+4e350e70-2e91-4ffb-b8ad-91a8cae5b4ea,Produtor de eventos,PLENO,Marketing,01-31-2023,01-31-2023
+de8484e8-ccf8-47d3-8337-2e79623b1323,Lavador de veículos,PLENO,Vendas,01-31-2023,01-31-2023
+1997750c-c00d-426b-9ec0-c1f30f8e798f,Astrólogo,PLENO,Administrativo,01-31-2023,01-31-2023
+7b7425f5-0cb3-47b2-a308-56f2384dbe6f,Assistente administrativo,PLENO,Administrativo,01-31-2023,01-31-2023
+c5bb03ea-e89e-4030-ad8a-2fe5bdd98245,Enólogo,PLENO,Vendas,01-31-2023,01-31-2023
+edb6389f-2bc6-40fa-b5b7-4dc089b0d47e,Topógrafo,PLENO,Vendas,01-31-2023,01-31-2023
+41d3e95d-b547-41d5-a49d-2fae4cd27296,Tapeceiro,PLENO,RH,01-31-2023,01-31-2023
+68f19204-b463-49eb-8bb8-260a289ba63f,Pizzaiolo,PLENO,TI,01-31-2023,01-31-2023
+03998fba-dbbc-439e-bc3a-78e5e2050e63,Ascensorista,PLENO,Administrativo,01-31-2023,01-31-2023
+7149e871-a259-4b11-aedb-11b8dacdcf5f,Engenheiro de som,PLENO,TI,01-31-2023,01-31-2023
+19aec491-34cf-4079-950c-6056c16d7700,Costureira,PLENO,RH,01-31-2023,01-31-2023
+4b2c2963-cbf4-4e7c-b38d-5206978dc49f,Cientista,PLENO,Marketing,01-31-2023,01-31-2023
+53ec3cd6-a0ee-4b80-9162-dc698958cfde,Microfonista,PLENO,RH,01-31-2023,01-31-2023
+12b01970-f08f-4dd4-a82a-c43ddeb31690,Corregedor de justiça,PLENO,RH,01-31-2023,01-31-2023
+bb3d7615-1f72-4a46-accd-07aca802acf8,Tecnólogo em papel e celulose,PLENO,Marketing,01-31-2023,01-31-2023
+633cd43c-775a-46cc-8c2c-93240eb740b5,Astrônomo,PLENO,Administrativo,01-31-2023,01-31-2023
+3cbaf54a-8d0e-4ccf-b813-d3554968ecf9,Frentista,PLENO,Marketing,01-31-2023,01-31-2023
+58c81e7b-0725-415e-98c8-e068ff98a670,Projetista mecânico,PLENO,TI,01-31-2023,01-31-2023
+16dd36fa-3490-4423-8e2f-f2644a974676,Corredor de atletismo,PLENO,Vendas,01-31-2023,01-31-2023
+86fa866f-f73d-4664-9feb-9a01724b378b,Biólogo,PLENO,TI,01-31-2023,01-31-2023
+2908fa9b-bd6c-46a1-a1bd-4abcc9c5b3b5,Conferente de carga e descarga,PLENO,Vendas,01-31-2023,01-31-2023
+49296086-e623-490c-b889-f0c2f15d4cc9,Químico,PLENO,Administrativo,01-31-2023,01-31-2023
+c02ca5ee-2558-446a-b115-f5bf353bfb12,Dedetizador,PLENO,RH,01-31-2023,01-31-2023
+66d80473-d38d-4694-90e9-537c481f9c24,Gestor ambiental,PLENO,Administrativo,01-31-2023,01-31-2023
+0ce0a9ec-97bf-45b9-b8ff-ed4846eb6983,Profissional de hotelaria,PLENO,Vendas,01-31-2023,01-31-2023
+ac2c6353-e2ce-46f2-a400-aadae25ad786,Leiteiro,PLENO,Vendas,01-31-2023,01-31-2023
+1e40aa7a-69ec-4ad1-970a-8e109c265ef1,Massoterapeuta,PLENO,Administrativo,01-31-2023,01-31-2023
+255af1cc-d990-4927-8b59-6e9428346b6a,Estivador,PLENO,Vendas,01-31-2023,01-31-2023
+1baddb21-484b-4747-90d4-f1a93c001add,Contábil,PLENO,TI,01-31-2023,01-31-2023
+d30ebf92-07a4-4d46-a179-d77483b06088,Cabeleireiro,PLENO,RH,01-31-2023,01-31-2023
+1d823b10-af48-4039-99f7-710260022266,Lixeiro/Coletor de lixo,PLENO,TI,01-31-2023,01-31-2023
+28b8b854-ee8d-44f3-b678-79978471a036,Técnico em edificações,PLENO,Marketing,01-31-2023,01-31-2023
+ec63c954-7083-452b-9ce0-896ec6048133,Tecnólogo em recursos pesqueiros,PLENO,Vendas,01-31-2023,01-31-2023
+3d416b0e-f121-4eb4-aa6a-18cb238dea98,Montador,PLENO,RH,01-31-2023,01-31-2023
+a2a10c58-be3f-45cf-b9d4-e40c5e07cc64,Carteiro,PLENO,Administrativo,01-31-2023,01-31-2023
+610a22f6-e195-4839-8184-d29a9be3d84a,Profissional de informática,PLENO,Vendas,01-31-2023,01-31-2023
+386b826a-9b35-42dc-818c-73bf45f0bf11,Vendedor,PLENO,RH,01-31-2023,01-31-2023
+39ad7cc3-1924-46c0-a024-5cb50cf5ae9f,Optometrista,PLENO,Vendas,01-31-2023,01-31-2023
+6cdfcc6c-ec55-425e-be90-e14f1155da70,Comandante,PLENO,TI,01-31-2023,01-31-2023
+92354754-d834-4ca6-a24e-6bd8981f4885,Assistente social,PLENO,TI,01-31-2023,01-31-2023
+a0dec167-6e56-41ac-aa8b-90c359e2bb42,Técnico em radiologia,PLENO,Vendas,01-31-2023,01-31-2023
+e9993ed9-c8ec-4392-a881-893a877baae8,Tapeceiro,PLENO,RH,01-31-2023,01-31-2023
+29da80a8-16c0-40de-8cfd-c9f452ef04e1,Plastimodelista,PLENO,Marketing,01-31-2023,01-31-2023
+dcd8b9d5-1b13-4202-94f5-059421a5a591,Defensor Público,PLENO,Vendas,01-31-2023,01-31-2023
+3c63c948-bd9d-4bcf-91f2-e4281ae1f93c,Designer de moda,PLENO,Marketing,01-31-2023,01-31-2023
+34cc7f75-5a21-4093-8f32-26a4bab112a3,Continuista,PLENO,RH,01-31-2023,01-31-2023
+53e87b60-a2a7-41e4-a339-353411038f66,Técnico em tratamento de água,PLENO,RH,01-31-2023,01-31-2023
+a91bdcb3-df16-46c1-8498-7279fc64b3a0,Produtor de eventos,PLENO,Marketing,01-31-2023,01-31-2023
+17d299d0-e5d6-4d8f-b1fd-f4815c9e8925,Engenheiro de produto ou produção,PLENO,Marketing,01-31-2023,01-31-2023
+0b9089c2-818f-4125-85f6-fddec3052754,Continuista,PLENO,Vendas,01-31-2023,01-31-2023
+1d289aef-5307-462c-84af-371ce742cba3,Senador,PLENO,Marketing,01-31-2023,01-31-2023
+466240de-fbf0-41ad-bf96-1fa9b4da17ee,Digitador,PLENO,Marketing,01-31-2023,01-31-2023
+44a05cff-b33e-4478-b8e7-f47715220211,Torreiro/Torrista,PLENO,RH,01-31-2023,01-31-2023
+11bcc0fa-74a3-4153-bcd4-9502a8666f92,Contra regra,PLENO,Marketing,01-31-2023,01-31-2023
+99a3f77d-04b1-48a2-beac-567d5f59278c,Sacoleira,PLENO,RH,01-31-2023,01-31-2023
+3382add3-73ac-4836-bf5c-6851a140ea6b,Engenheiro de projetos,PLENO,Administrativo,01-31-2023,01-31-2023
+b0b2faa6-a9b9-4f25-932c-2b96fc3c1a06,Técnico em rede,PLENO,Administrativo,01-31-2023,01-31-2023
+3e1a9b5d-1bab-4edb-ba7d-4e504c9f77b2,Afiador de ferramentas,PLENO,Marketing,01-31-2023,01-31-2023
+428c8d09-3c05-47dd-8a27-63988748b46b,Lavador,PLENO,TI,01-31-2023,01-31-2023
+ca438d0b-d4ba-419c-83b3-74370ea76eec,Cancerologista ou Oncologista,PLENO,Marketing,01-31-2023,01-31-2023
+1d2405ae-3863-4a79-bc50-68f98dd730e8,Diarista,PLENO,TI,01-31-2023,01-31-2023
+66f5333f-2783-4934-a091-dc405b6b609d,Turismólogo,PLENO,Vendas,01-31-2023,01-31-2023
+c85536e5-7bcf-43c9-8720-075a58a659a0,Moldador,PLENO,Administrativo,01-31-2023,01-31-2023
+96c919f1-bed8-4a4d-b21b-a5470c8486d6,Mecânico de vôo,PLENO,Marketing,01-31-2023,01-31-2023
+fa5981d1-bec1-4c55-af47-574c15a071d2,Pneumologista,PLENO,Vendas,01-31-2023,01-31-2023
+80442fff-9fab-41a2-938d-412ec481ab28,Florista,PLENO,Vendas,01-31-2023,01-31-2023
+039242f0-3e28-4e62-bdce-350174487247,Gerente de inovações ou novos negócios,PLENO,Administrativo,01-31-2023,01-31-2023
+440ecdc2-9be9-42e7-8334-ea41d0d40591,Revendedor,PLENO,Marketing,01-31-2023,01-31-2023
+0a85c71f-bc7f-4655-94c0-bf1647a42705,Repórter,PLENO,Administrativo,01-31-2023,01-31-2023
+6b9623df-3ac7-47b5-adde-67afecf0a190,Cientista da informação e documentação,PLENO,Administrativo,01-31-2023,01-31-2023
+97c1ed82-29b9-4b6a-9ffb-d3e44d35c4b9,Velejador,PLENO,TI,01-31-2023,01-31-2023
+4d4d3d83-cb84-40d5-8737-bfc4bb1a1804,Intérprete,PLENO,Administrativo,01-31-2023,01-31-2023
+df44a5dc-cf23-4444-b9b0-9e5f45f3619e,Serventuário,PLENO,Vendas,01-31-2023,01-31-2023
+494e31bb-5362-4977-b05d-3c1a5bdf9970,Dermatologista,PLENO,Vendas,01-31-2023,01-31-2023
+613e9a04-e384-4961-9f4f-cee31cbfc686,Cabo,PLENO,Vendas,01-31-2023,01-31-2023
+cabca53e-f3e6-4999-a99c-a811d84c5fc5,Auxiliar de serviços gerais,PLENO,RH,01-31-2023,01-31-2023
+c5e7d097-a37a-4db0-8776-fbd11087b35d,Plastimodelista,PLENO,Administrativo,01-31-2023,01-31-2023
+771a556d-bdce-4345-9d5c-78286718fa97,Guitarrista,PLENO,Administrativo,01-31-2023,01-31-2023
+83af978a-2119-48a6-9dc2-a76fcbc8589b,Repórter,PLENO,TI,01-31-2023,01-31-2023
+a190ea2b-f6fd-4594-9143-8714c627baf7,Profissional de efeitos especiais,PLENO,TI,01-31-2023,01-31-2023
+5e3eb618-e18e-4661-b2ab-bac9672f2c1d,Empacotador,PLENO,Administrativo,01-31-2023,01-31-2023
+265dedfc-40b9-4f33-9b1b-e23be95e9b45,Podólogo,PLENO,Marketing,01-31-2023,01-31-2023
+c14e3279-bf67-4b7d-bae7-f18b1ba98416,Veterinário,PLENO,TI,01-31-2023,01-31-2023
+fafb1dc9-87a1-4f9a-844d-fb20c3b5b3c3,Baterista,PLENO,Administrativo,01-31-2023,01-31-2023
+56b13d04-7580-4128-a314-d55d94e4e62a,Promotor público/de justiça,PLENO,Administrativo,01-31-2023,01-31-2023
+41b10d35-554b-4034-b873-665129088402,Empregado doméstico,PLENO,Administrativo,01-31-2023,01-31-2023
+794925e3-cd38-46de-b5f3-096929f6f68c,Escrivão,PLENO,Vendas,01-31-2023,01-31-2023
+41305dbf-6fb3-4d89-8a4f-2b28f1a377bc,Psiquiatra,PLENO,TI,01-31-2023,01-31-2023
+b3aec7ac-0a2c-4bfc-9243-5d84d628f88a,Epidemiólogo,PLENO,Marketing,01-31-2023,01-31-2023
+1f55441a-3ae2-48c4-82f7-5f156e6029de,Profissional de informática,PLENO,Vendas,01-31-2023,01-31-2023
+ebec1177-b14a-425c-88df-2954e1beaa30,Carnavalesco,PLENO,RH,01-31-2023,01-31-2023
+946e589b-e4c6-427f-aa4b-3b419101d8a5,Separador,PLENO,Vendas,01-31-2023,01-31-2023
+5425506c-7fb1-41a2-936d-7e58ff75fca2,Petroleiro,PLENO,Marketing,01-31-2023,01-31-2023
+95a0b548-72f4-4912-b8aa-aefea64091eb,Tintureiro,PLENO,Marketing,01-31-2023,01-31-2023
+3d13c227-b6db-40a2-8d6e-0f588dc21ec7,Carteiro,PLENO,RH,01-31-2023,01-31-2023
+1750e1e5-8ba4-4dc9-8a52-4961eacce64b,Comandante,PLENO,Marketing,01-31-2023,01-31-2023
+92f2c803-8b46-412c-936a-59565b9f6e4f,Zootecnista,PLENO,Administrativo,01-31-2023,01-31-2023
+0ea6a647-e2f1-4f8d-b52c-f39c6dd06d57,Editor de mesa de corte,PLENO,Marketing,01-31-2023,01-31-2023
+02c6e1b6-112b-476b-85a7-009d2750b7c7,Notário,PLENO,Marketing,01-31-2023,01-31-2023
+ebaf1789-86af-41f4-bfd5-172f63a96dab,Radialista programador,PLENO,Administrativo,01-31-2023,01-31-2023
+2956834a-563f-47ea-bece-86ce1cc56107,Retificador,PLENO,TI,01-31-2023,01-31-2023
+726698a3-9f47-411d-9e5b-0e523bcccc17,Perfusionista,PLENO,Administrativo,01-31-2023,01-31-2023
+3df7861f-c5fd-4dbf-a665-706734deac67,Intérprete e tradutor de língua de sinais,PLENO,TI,01-31-2023,01-31-2023
+9a482c1a-a1b5-4d17-a5f4-9b64e1319bdb,Engenheiro de petróleo,PLENO,Marketing,01-31-2023,01-31-2023
+39eecf42-e8b8-4d1b-8778-fad56eb7a3e6,Cancerologista ou Oncologista,PLENO,TI,01-31-2023,01-31-2023
+b4b28f00-8f9b-4199-abb7-2adee6357503,Protético dentário,PLENO,Vendas,01-31-2023,01-31-2023
+3a58940b-2c17-41f5-8c4c-a9e3822773eb,Advogado,PLENO,RH,01-31-2023,01-31-2023
+7d9ec489-f260-4266-9543-462332fc830a,Tecnólogo em tecnologia da madeira,PLENO,RH,01-31-2023,01-31-2023
+4466cd01-e330-47b7-9e49-5ff3ac3f8ffa,Mecânico,PLENO,TI,01-31-2023,01-31-2023
+2c11c31a-c560-4bf2-ac63-f877fa4a98ec,Assistente administrativo,PLENO,RH,01-31-2023,01-31-2023
+504cd7cc-430d-4ccc-b10c-f743aec223cd,Capitão,PLENO,Marketing,01-31-2023,01-31-2023
+3f371e99-3530-452d-8821-9974db9375e7,Timoneiro,PLENO,Vendas,01-31-2023,01-31-2023
+c0e9d34d-cf94-4244-8c81-a14154b0e445,Supervisor,PLENO,RH,01-31-2023,01-31-2023
+602b75a4-1015-43b8-a31e-96948b2bd87a,Radiooperador de vôo,PLENO,Marketing,01-31-2023,01-31-2023
+0f904df7-9b8b-410d-8f6f-6b2243f8f32c,Tecnólogo em irrigação e drenagem,PLENO,Marketing,01-31-2023,01-31-2023
+1d63760b-0ece-4f81-b4cd-dd80e048ce42,Fisiculturista,PLENO,TI,01-31-2023,01-31-2023
+2bd23169-0c54-43f0-adc6-3b046533b1f6,Cenógrafo,PLENO,Marketing,01-31-2023,01-31-2023
+de77ceb1-2579-4a6b-aede-347cf977e799,Agrimensor,PLENO,Vendas,01-31-2023,01-31-2023
+a2232792-4336-4ec1-b233-b9430ff97da7,Gastrônomo,PLENO,Marketing,01-31-2023,01-31-2023
+e75c0aee-fbeb-468c-8a31-be0895129753,Professor,PLENO,Vendas,01-31-2023,01-31-2023
+a2de363c-54c6-4d7c-b6cb-2cc9f7ec7711,Bombeiro,PLENO,Marketing,01-31-2023,01-31-2023
+1338e97b-6c56-4dc9-af21-a2f2dbd23bb7,Cobrador de pedágio,PLENO,Administrativo,01-31-2023,01-31-2023
+878c7fdc-8943-4f85-b3b6-e1870a8ed8c0,Economista,PLENO,TI,01-31-2023,01-31-2023
+10e5faaf-c518-416a-9708-777e5e53a7a2,Farmacêutico,PLENO,Administrativo,01-31-2023,01-31-2023
+cd4c9646-3acc-49bb-8076-604969f0c055,Necromaquiador,PLENO,Administrativo,01-31-2023,01-31-2023
+81bff452-69e1-49d2-918c-07eec0cb1e84,Repórter,PLENO,Marketing,01-31-2023,01-31-2023
+9963239a-be06-4248-8f80-816a7a6575b5,Engenheiro de produto ou produção,PLENO,RH,01-31-2023,01-31-2023
+8047c175-96b2-41a6-81fc-0a1d06703063,Guarda ou policial rodoviário,PLENO,Marketing,01-31-2023,01-31-2023
+1c16a500-eec9-402a-b2cb-1e3185349257,Produtor de audio visual,PLENO,RH,01-31-2023,01-31-2023
+d6155826-2f36-4c6f-917d-008cd966cb7e,Triatleta,PLENO,Marketing,01-31-2023,01-31-2023
+84f3f49e-69a2-4d74-813b-9e9d28ddfe5f,Psiquiatra,PLENO,TI,01-31-2023,01-31-2023
+e14ae0d7-c782-4150-8778-e228daef5768,Engenheiro de iluminação,PLENO,Marketing,01-31-2023,01-31-2023
+c269f1f6-f269-47b8-ac2a-3e96ec9184da,Militar da Marinha,PLENO,Administrativo,01-31-2023,01-31-2023
+b7617809-4baa-4824-b95f-8791a7c7101f,Ferreiro,PLENO,Administrativo,01-31-2023,01-31-2023
+a375d752-7de6-4489-a4fd-307410601b18,Tecnólogo em Ciências das plantas medicinais,PLENO,Marketing,01-31-2023,01-31-2023
+2bdf5fb8-e54b-469d-90ad-836b8c20226e,Astrofísico,PLENO,Administrativo,01-31-2023,01-31-2023
+08d9c26c-9d55-4de1-93e5-fe340f927e44,Catador de material reciclável,PLENO,TI,01-31-2023,01-31-2023
+0703cc5e-550e-4327-8f0d-1b0435679ae0,Ginasta rítmica,PLENO,RH,01-31-2023,01-31-2023
+e323a6fe-4321-4723-b52b-b3e15be2dee2,Diarista,PLENO,RH,01-31-2023,01-31-2023
+d28e968f-f717-44e5-a678-35eeffc530c7,Cientista social,PLENO,Administrativo,01-31-2023,01-31-2023
+1f2516ee-282f-4f32-ba02-9e6706e3f78a,Médico,PLENO,Marketing,01-31-2023,01-31-2023
+452db540-0468-4a1b-b563-91d5d8fa8687,Astrônomo,PLENO,RH,01-31-2023,01-31-2023
+edc8f242-4b4e-470a-9915-82849a63c3dd,Cadeirinha,PLENO,Marketing,01-31-2023,01-31-2023
+915ffe46-1c9e-4a9f-9f7e-199968943da8,Profissional de recursos humanos,PLENO,Vendas,01-31-2023,01-31-2023
+6f163eed-776b-4aad-a87e-f04a7f9d81b3,Radiooperador de vôo,PLENO,Vendas,01-31-2023,01-31-2023
+020d3447-8555-43c0-afe8-ae6533c241f7,Agrimensor,PLENO,Vendas,01-31-2023,01-31-2023
+f6e5427f-c153-4002-9b98-19354c2fc786,Atleta de nado sincronizado,PLENO,TI,01-31-2023,01-31-2023
+66b5e3b6-44b2-41c8-a00a-6293633b5b0a,Técnico tributarista,PLENO,RH,01-31-2023,01-31-2023
+1cc83753-43cd-419c-a6ce-0f66e667a889,Cadeirinha,PLENO,Administrativo,01-31-2023,01-31-2023
+173ca999-85be-4dd3-806f-33670d8f8680,Ortoptista,PLENO,TI,01-31-2023,01-31-2023
+f41104be-4ac6-4f98-803d-a784bd78accf,Jogador de golfe,PLENO,RH,01-31-2023,01-31-2023
+dd747586-796d-4945-911f-8e5449be09aa,Profissional de recursos humanos,PLENO,RH,01-31-2023,01-31-2023
+2d6bd7d4-d678-49cd-9264-1ba807db220b,Auditor,PLENO,Marketing,01-31-2023,01-31-2023
+b8f17373-e272-4ccc-88bc-e3dbe8d270a1,Economista,PLENO,Vendas,01-31-2023,01-31-2023
+816fd951-cd8e-4968-ab3a-368eff462882,Servente-de-obras,PLENO,Vendas,01-31-2023,01-31-2023
+b3d33620-532f-426a-b014-7ef8838c8128,Operador de vídeo,PLENO,TI,01-31-2023,01-31-2023
+7c4b40d9-32f2-452b-b75f-493f27499577,Taxista,PLENO,RH,01-31-2023,01-31-2023
+99b53629-72e3-4a50-872d-25411f376c5f,Bombeiro,PLENO,Administrativo,01-31-2023,01-31-2023
+01dea52f-3865-4a1e-814d-052cbb722977,Sacoleira,PLENO,Vendas,01-31-2023,01-31-2023
+f80b64eb-f859-4fee-9a29-d98cbe63c73e,Endocrinologista,PLENO,RH,01-31-2023,01-31-2023
+5c5f8d90-b356-447f-845a-4becb939b073,Defensor Público,PLENO,Vendas,01-31-2023,01-31-2023
+fa7d5d1c-bc5f-4775-b50d-718973190e95,Gestor de qualidade,PLENO,Administrativo,01-31-2023,01-31-2023
+b1bf89ae-c0c2-4da9-ac14-884bbe041af3,Ourives,PLENO,RH,01-31-2023,01-31-2023
+bb16dadc-72a4-4408-a4b6-8f6028d9ef49,Dublê,PLENO,Marketing,01-31-2023,01-31-2023
+634503c2-7097-46b6-b9fe-85cc5546a3a9,Camelô,PLENO,TI,01-31-2023,01-31-2023
+7d84a7dc-07aa-4add-a094-3cd431c86004,Faturista,PLENO,Vendas,01-31-2023,01-31-2023
+e1d843bb-f5aa-4e1c-bfaa-75f3b0a0501e,Cobaia Médica,PLENO,Marketing,01-31-2023,01-31-2023
+561a92b0-6f9c-4bad-8ec1-c8f0d44e2f00,Cartógrafo,PLENO,Administrativo,01-31-2023,01-31-2023
+a490afc1-764e-44c3-aeac-691ab39894f7,Instrutor,PLENO,RH,01-31-2023,01-31-2023
+a146ce74-4360-40bf-8408-7da5becd96f5,Topógrafo,PLENO,Administrativo,01-31-2023,01-31-2023
+ecd0cdfc-b3e8-47d5-a7b6-489a22ea6205,Diretor de cinema,PLENO,Administrativo,01-31-2023,01-31-2023
+a979d5c1-0073-4dcd-b90a-3e193db2f53d,Técnico tributarista,PLENO,Administrativo,01-31-2023,01-31-2023
+5af928d5-d0c1-45e9-9d84-5b1ee4c075ba,Radiologista,PLENO,Administrativo,01-31-2023,01-31-2023
+066213f0-6b53-4979-bab7-2981dc624bb2,Policial civil,PLENO,Vendas,01-31-2023,01-31-2023
+ac669945-84b0-46ab-8c16-6d7753006918,Dentista,PLENO,Administrativo,01-31-2023,01-31-2023
+94488ed2-2237-4b2e-9d35-a76f179bd1f5,Técnico em tratamento de água,PLENO,TI,01-31-2023,01-31-2023
+39065127-0179-4c84-8a51-cd564dd4a003,Artista plástico,PLENO,Vendas,01-31-2023,01-31-2023
+f3cd681b-de5d-4a13-a5b3-12b2918b1e20,Escoteiro,PLENO,Vendas,01-31-2023,01-31-2023
+213e5c52-6a09-4f18-b47a-a7eb7a2e5fd0,Corretor de imóveis,PLENO,TI,01-31-2023,01-31-2023
+76c21c76-ad28-42e3-8f30-943a1025a584,Engenheiro de produto ou produção,PLENO,Administrativo,01-31-2023,01-31-2023
+50196788-225f-46a7-8c15-3810368fbfae,Jogador de vôlei,PLENO,RH,01-31-2023,01-31-2023
+76f9e331-4706-4b6d-95f5-7056569c3b40,Feirante,PLENO,Administrativo,01-31-2023,01-31-2023
+a0ceba70-3ea7-42b2-aba4-7d22415d106a,Tecnólogo em navegação fluvial,PLENO,RH,01-31-2023,01-31-2023
+3634d64b-7359-4f69-954f-ab9351f85006,Cortador de cana-de-açucar,PLENO,Vendas,01-31-2023,01-31-2023
+bbcc2a65-66c7-4c0e-883d-6256d21237c9,Cancerologista ou Oncologista,PLENO,TI,01-31-2023,01-31-2023
+191c75af-5000-46ad-a600-9be6ed6d5789,Empacotador,PLENO,Administrativo,01-31-2023,01-31-2023
+ff48c378-efae-41ba-8c9c-03a972222279,Governanta,PLENO,Vendas,01-31-2023,01-31-2023
+6a4b9ae9-dec3-41b2-a520-da064609f7cc,Armador,PLENO,TI,01-31-2023,01-31-2023
+725aa9f4-c0a6-4f1e-ad53-ebf3a9c39f22,Tecnólogo em irrigação e drenagem,PLENO,TI,01-31-2023,01-31-2023
+ddaee6b7-c3ca-4796-990b-cb1283005d0a,Babá,PLENO,TI,01-31-2023,01-31-2023
+3513108f-8de7-406f-9667-3a6110c35914,Cortador de cana-de-açucar,PLENO,RH,01-31-2023,01-31-2023
+29ac91a1-f8cf-4ad5-ada4-dea6a3c6d1fc,Mensageiro,PLENO,Vendas,01-31-2023,01-31-2023
+e1decc60-634d-4b1d-90bf-d17bd44c2c7e,Estivador,PLENO,Administrativo,01-31-2023,01-31-2023
+191d9280-3678-44d3-b2b9-a3378bae1206,Produtor editorial,PLENO,Administrativo,01-31-2023,01-31-2023
+90604cf5-d9bb-4597-89b1-9d3d0007fa58,Contador,PLENO,TI,01-31-2023,01-31-2023
+ccbe05c2-3101-4f98-8d94-e70c51aa2dc7,Desembargador de justiça,PLENO,TI,01-31-2023,01-31-2023
+1b65135c-7185-4a93-a81b-c323f180537b,Percursionista,PLENO,Marketing,01-31-2023,01-31-2023
+f58f333d-538a-4992-99c5-2a1e9c326245,Ortesista,PLENO,RH,01-31-2023,01-31-2023
+3292ca1b-2d69-4cc8-a920-f474369c3ca3,Político,PLENO,TI,01-31-2023,01-31-2023
+818fe785-b3c9-4d4e-9fdb-5a2ce7e532b8,Clínico geral,PLENO,TI,01-31-2023,01-31-2023
+559e1600-901c-4b45-ae21-812d5bd7b549,Escoteiro,PLENO,TI,01-31-2023,01-31-2023
+7ff0bc06-a9e7-47df-91ef-6631196e4c85,Gandula,PLENO,TI,01-31-2023,01-31-2023
+805e00ee-5054-4b51-827f-78740c48864e,Neurocirurgião,PLENO,Marketing,01-31-2023,01-31-2023
+ba450b7c-c001-4942-a2d0-837e4dcb6737,Almirante,PLENO,Marketing,01-31-2023,01-31-2023
+c7499790-096d-4d82-9e5d-7411ef2620ac,Argumentista,PLENO,Vendas,01-31-2023,01-31-2023
+0e5ade37-0331-4be6-8f1f-14880e9883a9,Clarinetista,PLENO,Vendas,01-31-2023,01-31-2023
+917fc39c-16dc-4d32-b4d9-9a55fe834700,Crítico,PLENO,Marketing,01-31-2023,01-31-2023
+5c221e4b-d429-4ef4-804f-53aab6e698ab,Navegador,PLENO,TI,01-31-2023,01-31-2023
+a79c009b-5d80-4a3a-a4e3-9cc39f93dde5,Profissional de relacionamento com investidores RI,PLENO,Vendas,01-31-2023,01-31-2023
+30b5f534-8012-4f05-a32d-167801362a7e,Grafologista,PLENO,Marketing,01-31-2023,01-31-2023
+6e2b53a1-45cb-4744-8d25-c749e517720d,Médico geneticista,PLENO,RH,01-31-2023,01-31-2023
+f5609118-b263-46be-a4d6-caae2bf99b73,Lutador de karatê,PLENO,Marketing,01-31-2023,01-31-2023
+43132791-4446-4c9e-8484-ea4e580e5f6c,Engenheiro de som,PLENO,Administrativo,01-31-2023,01-31-2023
+e625a30a-a307-441d-9646-1d751fd9ca27,Prático,PLENO,TI,01-31-2023,01-31-2023
+9c9ed15d-9fae-4a44-ad1f-89b2bd8152b7,Editor de mesa de corte,PLENO,TI,01-31-2023,01-31-2023
+adb298ae-f5c9-4301-a543-cbfb3d074519,Investigador particular,PLENO,RH,01-31-2023,01-31-2023
+61565b8b-24c6-4679-8ec5-d56ab84d03f3,Investigador de Polícia,PLENO,RH,01-31-2023,01-31-2023
+20df72f2-cecb-4e46-8aa8-9bf9a4cdf353,Encarregado de manutenção predial,PLENO,Vendas,01-31-2023,01-31-2023
+172dec9b-5ff4-4ef0-9aff-3add56aa3dee,Cameraman,PLENO,Marketing,01-31-2023,01-31-2023
+e15a33ed-7467-4c00-b19f-2587c7381b80,Assessor de imprensa,PLENO,TI,01-31-2023,01-31-2023
+a65fce00-4adb-4b76-aab4-dba2c0049c7c,Limpador de vidros,PLENO,RH,01-31-2023,01-31-2023
+423a3a4c-e83b-4051-b916-c966e611fab1,Bibliotecário,PLENO,Administrativo,01-31-2023,01-31-2023
+8d024f58-aa99-410f-8bc5-32e2b8a42c2d,Agente de combate à endemias,PLENO,Marketing,01-31-2023,01-31-2023
+e8c8e5f2-da4a-4d70-8bd4-5a8bebbb158e,Ferroviário,PLENO,Vendas,01-31-2023,01-31-2023
+28a42886-14ec-4f1c-9615-a37f935737c7,Hostess,PLENO,Marketing,01-31-2023,01-31-2023
+67bf52b0-a208-4bc3-964d-7e2d2161e64e,Homeopata,PLENO,Administrativo,01-31-2023,01-31-2023
+736ed370-63c5-4843-804f-d827041bd893,Repositor,PLENO,Administrativo,01-31-2023,01-31-2023
+f986954b-3735-480f-ac99-f18ea36a251a,Copeiro,PLENO,Administrativo,01-31-2023,01-31-2023
+53a5f38b-cddc-4956-a8a1-bd974bd699aa,Anestesiologista,PLENO,Administrativo,01-31-2023,01-31-2023
+aac1e208-bb48-4281-aaa3-06b8d63163df,Consultor de radiestesia,PLENO,Administrativo,01-31-2023,01-31-2023
+20d035dc-7d2e-4b50-8fe8-d40a24ee55da,Engenheiro de projetos,PLENO,Vendas,01-31-2023,01-31-2023
+fb9a0cf5-59c4-463c-934b-6d20845cfc1e,Guardador de veículos,PLENO,Administrativo,01-31-2023,01-31-2023
+f1e8d78e-7dc2-4fe4-807e-8b8a31b1910c,Técnico em hardware,PLENO,Vendas,01-31-2023,01-31-2023
+1e069364-66e1-46d7-be01-d5d62c32e892,Aeroviário,PLENO,RH,01-31-2023,01-31-2023
+5d5fd72a-0e94-48f0-b378-f63de3d43fd2,Engraxate,PLENO,Marketing,01-31-2023,01-31-2023
+aae66757-efa5-4649-b82f-92b23de63bab,Técnico em desporto,PLENO,Administrativo,01-31-2023,01-31-2023
+3161eb2f-a9b7-43df-900a-553800049d9d,Geólogo,PLENO,Administrativo,01-31-2023,01-31-2023
+ade30126-f31a-45b5-af83-72c73109ef88,Geofísico,PLENO,RH,01-31-2023,01-31-2023
+eb4c0560-3b4d-4393-889b-849be9d29637,Político,PLENO,Administrativo,01-31-2023,01-31-2023
+083191a5-0b74-4526-845e-0889590c3237,Paparazzo,PLENO,Marketing,01-31-2023,01-31-2023
+4e18795e-a1eb-43de-9b0a-d6790c9c411e,Assistente social,PLENO,RH,01-31-2023,01-31-2023
+4f05c085-078f-4d2a-b815-0876ea388864,Empacotador,PLENO,Marketing,01-31-2023,01-31-2023
+2831a3d6-3bb5-4ce9-b80a-f700ba51bf98,Oculista,PLENO,RH,01-31-2023,01-31-2023
+d654426d-6e69-45bc-832c-ef012d18e5e5,Urbanista,PLENO,TI,01-31-2023,01-31-2023
+e0c1bbd4-7065-4987-8f50-7bce59586ab1,Assessor parlamentar,PLENO,Administrativo,01-31-2023,01-31-2023
+34072fad-fbb5-487a-b28c-8d3ffd09d2e1,Pára-quedista,PLENO,Administrativo,01-31-2023,01-31-2023
+93b7f4ef-61f9-4800-8d9e-40dfb69b07fe,Maestro,PLENO,Administrativo,01-31-2023,01-31-2023
+c5e45927-9b26-436b-a360-3f0b27311837,Engenheiro de aquicultura,PLENO,Administrativo,01-31-2023,01-31-2023
+7546ec82-92bb-434f-b753-46a92c0501d5,Odontologista legal,PLENO,Vendas,01-31-2023,01-31-2023
+4e8535a5-0269-42fd-8023-537f3ac1c984,Gerente de inovações ou novos negócios,PLENO,Marketing,01-31-2023,01-31-2023
+52d87553-bd32-4c6e-9a34-1327ada7c00d,Assessor de imprensa,PLENO,RH,01-31-2023,01-31-2023
+2e30c91a-c2c6-4cf2-9f4c-d15c54c1198d,Navegador,PLENO,Vendas,01-31-2023,01-31-2023
+da39c18e-dd78-4711-977b-34c23f44275b,Moldador,PLENO,Vendas,01-31-2023,01-31-2023
+7c231ecf-1e4c-4465-847f-1513e2e636ff,Patologista oral,PLENO,RH,01-31-2023,01-31-2023
+053fa98d-6d15-4764-a202-1fe60d5e283e,Mestre cervejeiro,PLENO,Vendas,01-31-2023,01-31-2023
+65596ae2-01ba-4c7c-b512-67414229df77,Tecnólogo em tecnologia da madeira,PLENO,TI,01-31-2023,01-31-2023
+a86a72f9-340e-44df-a108-f869e4940dd5,Paginador,PLENO,TI,01-31-2023,01-31-2023
+cb2e6ffc-269a-4fdd-8a0b-a90bc2590a65,Psicopedagogo,PLENO,Vendas,01-31-2023,01-31-2023
+4eeb8013-63df-4613-ac60-d17bb50c7975,Instrutor,PLENO,RH,01-31-2023,01-31-2023
+add30834-a7e6-4da7-9324-45f7311d9dce,Designer de interiores,PLENO,Vendas,01-31-2023,01-31-2023
+efbbe165-665a-49c5-85ef-4544a32a6376,Corretor de imóveis,PLENO,TI,01-31-2023,01-31-2023
+a5946ff5-7614-480c-8c24-a51b5e6444fe,Soldador,PLENO,TI,01-31-2023,01-31-2023
+c3279047-793c-4196-b06d-52b940af1dc2,Salgadeira,PLENO,RH,01-31-2023,01-31-2023
+cfadb0b3-15de-48ff-90d3-cd4955fa2cf3,Arrumadeira,PLENO,Vendas,01-31-2023,01-31-2023
+eb654309-ce62-46f5-b7f6-62ca0074c554,Engenheiro de materiais,PLENO,RH,01-31-2023,01-31-2023
+8f5d213b-02fa-4d0c-b323-0f33de15559c,Engenheiro de alimentos,PLENO,TI,01-31-2023,01-31-2023
+471c03c5-54d9-4582-bc1c-243ba39c7f5e,Astrônomo,PLENO,TI,01-31-2023,01-31-2023
+55d0648d-70a7-4eeb-afd4-37636f366cdb,Fundidor de placa de gesso,PLENO,Vendas,01-31-2023,01-31-2023
+1322c5e9-4029-4ed1-a072-9809e8d3aa6a,Técnico de gesso,PLENO,Administrativo,01-31-2023,01-31-2023
+45582b15-6531-4bfe-8376-114f1636ff00,Recreador,PLENO,Vendas,01-31-2023,01-31-2023
+331a9b52-5811-4de5-8481-8196ac14280a,Meteorologista,PLENO,Marketing,01-31-2023,01-31-2023
+68051eca-857d-4223-911a-abb316d999fb,Somelier,PLENO,Administrativo,01-31-2023,01-31-2023
+e069c08d-f15d-4e1f-8d77-a379da06a410,Porteiro,PLENO,Marketing,01-31-2023,01-31-2023
+ef3a7c98-542b-4522-8c56-db3e77a94042,Impressor,PLENO,Vendas,01-31-2023,01-31-2023
+1dfaf073-6067-49ff-b26a-1265d9e06a74,Lenhador,PLENO,RH,01-31-2023,01-31-2023
+26c837ee-c0dc-4333-8d9f-9557ab1715e6,Odontopediatra,PLENO,Marketing,01-31-2023,01-31-2023
+eae730dd-d60f-44e9-88d6-970bdd0f683e,Peixeiro,PLENO,Administrativo,01-31-2023,01-31-2023
+1a4aad5b-2790-4d4b-a7d5-0512a0db61a7,Nutricionista,PLENO,RH,01-31-2023,01-31-2023
+43d70643-3280-4e2e-98b5-8f0d9c40c9d7,Atleta de tiro com arco,PLENO,Marketing,01-31-2023,01-31-2023
+12568cac-9a07-4105-8469-43a8ea222594,Diretor de cinema,PLENO,Vendas,01-31-2023,01-31-2023
+d0d89d5f-68f3-42d3-95a7-4d463230d805,Homeopata,PLENO,Administrativo,01-31-2023,01-31-2023
+840f9229-324d-4084-8063-da9990d780ae,Pedreiro,PLENO,TI,01-31-2023,01-31-2023
+035a2553-0ce1-4911-97e1-3df817258e98,Terapeuta Holístico,PLENO,Marketing,01-31-2023,01-31-2023
+662ea553-1792-4a9e-ae0f-90fd9d3c29a7,Estofador,PLENO,Administrativo,01-31-2023,01-31-2023
+be415c4b-063d-4823-82e5-c7ae81bb2315,Intérprete de Bíblias,PLENO,TI,01-31-2023,01-31-2023
+3487f898-44de-4bed-8f35-889759aedff1,Degustador,PLENO,TI,01-31-2023,01-31-2023
+958de5f6-a889-4549-a598-13ec807b2e3a,Ministro,PLENO,Marketing,01-31-2023,01-31-2023
+4a28ca8c-4d16-4ea2-a7df-a19caed1c0be,Agente de defesa sanitária animal,PLENO,Marketing,01-31-2023,01-31-2023
+3ba3f8d9-e483-4166-a274-176028f688e9,Professor,PLENO,Marketing,01-31-2023,01-31-2023
+0b3de2bf-ec7d-4d1c-9b3f-ad5c83cef4e2,Contábil,PLENO,Marketing,01-31-2023,01-31-2023
+8a9463cb-6c4f-4ffb-8091-fa995759e1d8,Figurante,PLENO,Administrativo,01-31-2023,01-31-2023
+e3aaf284-e770-42f3-8886-2af2eade40a6,Astrônomo,PLENO,Marketing,01-31-2023,01-31-2023
+ae62a49b-e7bb-4301-9f92-7a48380f5010,Fiscal,PLENO,Marketing,01-31-2023,01-31-2023
+667b8382-1403-4767-b30d-2a60049664c6,Co-piloto,PLENO,Vendas,01-31-2023,01-31-2023
+64ef96e2-3dba-4b9f-aa05-d492de4190f7,Engenheiro de produto ou produção,PLENO,Marketing,01-31-2023,01-31-2023
+7f7fc30f-da85-4a84-bac1-5a94d00edf8b,Eletricista,PLENO,Administrativo,01-31-2023,01-31-2023
+609b2206-4ae5-46fc-b614-2f69bc3e072f,Afiador de ferramentas,PLENO,Administrativo,01-31-2023,01-31-2023
+a00a74e7-69ba-483a-8a75-ccefd2e1b4ab,Modelista,PLENO,RH,01-31-2023,01-31-2023
+b4318655-a612-42dc-bba6-da01d355ba3a,Vendedor,PLENO,Marketing,01-31-2023,01-31-2023
+45f0709e-5810-46b3-92e2-f08191a0b16e,Peixeiro,PLENO,RH,01-31-2023,01-31-2023
+fb1bb8f7-6542-471b-a59c-83852a4a72f0,Cambista,PLENO,Administrativo,01-31-2023,01-31-2023
+a05ba3dd-c3c0-4052-b31c-87e7b6e77ee9,Capataz,PLENO,Marketing,01-31-2023,01-31-2023
+365c3e1a-c786-4576-af69-59cde8410880,Turismólogo,PLENO,Marketing,01-31-2023,01-31-2023
+13b0d2ba-801f-445a-baa0-dc6675a40f0a,Chargista,PLENO,RH,01-31-2023,01-31-2023
+376b3886-ba0c-4e8a-a323-a517e5168a87,Ufólogo,PLENO,TI,01-31-2023,01-31-2023
+dd1157f6-e048-4021-b02a-e9f378eba491,Escritor,PLENO,Marketing,01-31-2023,01-31-2023
+4679abed-c575-4ceb-a410-1710bb9792f4,Arrumadeira,PLENO,Vendas,01-31-2023,01-31-2023
+ca5c42d8-52ac-4bb6-a8b9-44f821b9a611,Cobrador de ônibus,PLENO,RH,01-31-2023,01-31-2023
+948bedb4-0c31-43da-a487-dda5fb3048c3,Jogador de basquete,PLENO,TI,01-31-2023,01-31-2023
+da8c1a2c-6df7-4a40-bfa9-1c849af8dcc2,Guia turistico,PLENO,TI,01-31-2023,01-31-2023
+a6613209-3d35-46b4-90f0-d7db1b3a7879,Faxineiro,PLENO,TI,01-31-2023,01-31-2023
+059443bc-be8c-4306-bd21-0f71ebfc1265,Militar da Aeronáutica,PLENO,Marketing,01-31-2023,01-31-2023
+c777fff2-ebfd-4d2d-a536-6d60acc1c8d1,Reumatologista,PLENO,Vendas,01-31-2023,01-31-2023
+4309e67a-155a-4203-989c-a736930ff58e,Veterinário,PLENO,Marketing,01-31-2023,01-31-2023
+8d350a07-e6d6-4727-b5ee-ad5d9b9a2182,Engenheiro de materiais,PLENO,Marketing,01-31-2023,01-31-2023
+9667684c-225c-4c45-a5d3-281c6cd9866e,Capitão,PLENO,TI,01-31-2023,01-31-2023
+d6311f07-eb33-47cd-9b0b-afc36c8ab394,Gourmet,PLENO,RH,01-31-2023,01-31-2023
+be8a2217-e714-4244-963a-a92d2b884421,Marketeiro,PLENO,Marketing,01-31-2023,01-31-2023
+77681cbb-f037-42b5-a3cf-7ba044ab70c3,Revisor,PLENO,Marketing,01-31-2023,01-31-2023
+998abc2b-017e-4ee8-9145-e9b3b1b29e49,Agente de combate à endemias,PLENO,Administrativo,01-31-2023,01-31-2023
+0932a1af-cc08-4a5f-b6be-079e17dd2c8b,Coronel,PLENO,Marketing,01-31-2023,01-31-2023
+6a209207-a245-4be3-a988-cbc3c1b4a36e,Teólogo,PLENO,Administrativo,01-31-2023,01-31-2023
+39206045-24dc-42eb-9b2d-08e1420cdb49,Sexólogo,PLENO,Administrativo,01-31-2023,01-31-2023
+71bf8b74-9718-4072-95b1-f8d4d5977e00,Advogado,PLENO,Administrativo,01-31-2023,01-31-2023
+f70b6281-c3e0-444f-a86a-1d0b0e18acd8,Regente,PLENO,Marketing,01-31-2023,01-31-2023
+0163fd1c-ae77-48b6-ad6b-d0b59ddec140,Adestrador de animais,PLENO,RH,01-31-2023,01-31-2023
+3d7168d9-a1cc-4157-83b4-16e1c818c836,Relações públicas,PLENO,Marketing,01-31-2023,01-31-2023
+8056e7bc-10cd-4d0b-bfed-06455db4c243,Cirurgião dentista,PLENO,TI,01-31-2023,01-31-2023
+44898589-69b7-457f-b25c-893a499717fc,Jogador de badminton,PLENO,Vendas,01-31-2023,01-31-2023
+b30cf9a2-0126-4202-bc5a-fc2d60c4076d,Arquiteto,PLENO,RH,01-31-2023,01-31-2023
+74917baf-2a8f-45d3-be39-78e350c760a3,Jogador de tênis de mesa,PLENO,RH,01-31-2023,01-31-2023
+f0d6dc45-46bf-4661-9ba7-5289826f0bf5,Comerciante,PLENO,Vendas,01-31-2023,01-31-2023
+3387361b-9f14-4db0-9970-e8ceba7caef8,Educador integrado à saúde pública,PLENO,TI,01-31-2023,01-31-2023
+0688332e-0527-43bd-bc86-c29099aebbea,Técnico em edificações,PLENO,Administrativo,01-31-2023,01-31-2023
+014c03f2-c7e2-472f-bd43-adc84e41a992,Telefonista,PLENO,TI,01-31-2023,01-31-2023
+8842f57e-21f4-4fe3-8663-194d233c2008,Designer de jóia,PLENO,Marketing,01-31-2023,01-31-2023
+4092e0c5-5ed4-4602-ac6f-bb7479ba8ab2,Neonatologista,PLENO,RH,01-31-2023,01-31-2023
+02683806-bbcd-45c5-ba85-6bd367270f00,Apicultor,PLENO,Vendas,01-31-2023,01-31-2023
+e622d772-c58a-4e8d-8f48-886e90f4c412,Engenheiro de petróleo,PLENO,Administrativo,01-31-2023,01-31-2023
+6aa9d357-6e32-4e1c-8182-fbda23c38701,Eletricista,PLENO,Administrativo,01-31-2023,01-31-2023
+397b4142-d5c6-432a-98f8-c0640585dff5,Editor,PLENO,RH,01-31-2023,01-31-2023
+2bff4bf7-5372-4d2c-9b7a-4193c85f513d,Salgadeira,PLENO,Administrativo,01-31-2023,01-31-2023
+b38bb15e-c88b-4125-bc09-710739357ec1,Operador de bombas,PLENO,Marketing,01-31-2023,01-31-2023
+5c75f40f-d2c8-45c5-965c-0d0f0cb62fe9,Selecionador de pessoal,PLENO,Marketing,01-31-2023,01-31-2023
+86d71f7f-b3be-4371-bf00-9cd4e9f5e583,Médico nuclear,PLENO,Vendas,01-31-2023,01-31-2023
+2337b94a-a678-445f-8e1d-b755a3972a88,Transcritor,PLENO,Marketing,01-31-2023,01-31-2023
+8dc0ea93-903a-4138-8563-9f18d5bba6b9,Projetista mecânico,PLENO,Administrativo,01-31-2023,01-31-2023
+e40e1539-636e-4f9c-b791-bd52fe9f5e70,Biotecnólogo,PLENO,RH,01-31-2023,01-31-2023
+c427db39-df32-4ba9-968b-395158fc3e92,Contabilista,PLENO,Marketing,01-31-2023,01-31-2023
+c9e5a91d-028a-4309-9807-0e84d7e4b026,Bedel,PLENO,Administrativo,01-31-2023,01-31-2023
+a58cf925-2f44-493c-81e9-4002e100f8ce,Historiador,PLENO,Vendas,01-31-2023,01-31-2023
+42b1986e-f032-48cd-80bf-95cbc06ff91d,Arquivista,PLENO,Administrativo,01-31-2023,01-31-2023
+ba941589-cbba-4554-a1b8-9f9784395a34,Cameraman,PLENO,Vendas,01-31-2023,01-31-2023
+93317235-315d-4e9a-827b-6e1cfc050ba0,Engenheiro naval,PLENO,Administrativo,01-31-2023,01-31-2023
+302aaac7-58a1-4d36-9037-194fe0ce864b,Hostess,PLENO,RH,01-31-2023,01-31-2023
+4a4cbc3e-0e48-48de-b0db-39d090178961,Técnico em agropecuária,PLENO,RH,01-31-2023,01-31-2023
+aaf178fb-7af2-422e-b1f8-e01cff53d36b,Contra regra,PLENO,RH,01-31-2023,01-31-2023
+2c39f98e-4bda-4469-97f1-54b50d049de5,Pedicure,PLENO,Vendas,01-31-2023,01-31-2023
+66293d83-27ee-4f4b-bad3-2539f438fa3c,Profissional de informática,PLENO,TI,01-31-2023,01-31-2023
+8b9b9121-2352-47a7-b41d-8241d9f6928d,Geólogo,PLENO,Administrativo,01-31-2023,01-31-2023
+2a511c2d-8cb9-4b1f-bfc2-cf21c74cdb61,Flanelinha,PLENO,TI,01-31-2023,01-31-2023
+49052f8e-07df-41da-b361-a350a610aec6,Agente penitenciário,PLENO,Administrativo,01-31-2023,01-31-2023
+e293b3b0-2138-4a3e-97cd-fa2f763385b0,Pneumologista,PLENO,Administrativo,01-31-2023,01-31-2023
+0bf6fec9-3ff9-44ad-b37f-03c866072d5c,Inspetor,PLENO,Vendas,01-31-2023,01-31-2023
+b57e33c9-e134-4e49-b778-41ac752ffdce,Médico legista,PLENO,Marketing,01-31-2023,01-31-2023
+4c8580c1-9a5a-415a-845f-66888e60bbbe,Modelista,PLENO,RH,01-31-2023,01-31-2023
+6c91ad33-1415-4502-b618-22cf446c2a7f,Governanta,PLENO,Marketing,01-31-2023,01-31-2023
+996deea1-2f53-4aa4-baf9-badb848271a6,Argumentista,PLENO,TI,01-31-2023,01-31-2023
+7f984b3a-7976-465f-92dd-1b0b0b8ad0dd,Controller,PLENO,Vendas,01-31-2023,01-31-2023
+3c942fe5-a450-4dac-a83b-72c6f27cfd32,Psicomotricista,PLENO,Marketing,01-31-2023,01-31-2023
+27ac2fe2-5da1-4aa3-8ad4-3a5752858e53,Engenheiro têxtil,PLENO,Administrativo,01-31-2023,01-31-2023
+6cb4e145-7cd0-45cf-9034-96354f6abeaf,Taxista,PLENO,Marketing,01-31-2023,01-31-2023
+37bca518-6d12-4dd4-b45f-70adf9bb282d,Eletricista,PLENO,Administrativo,01-31-2023,01-31-2023
+11cc351b-dc55-4b61-ae41-14c31d68cd9e,Presidente da República,PLENO,TI,01-31-2023,01-31-2023
+55417153-0a12-4466-b5c6-c320ef5e9c3a,Educador,PLENO,TI,01-31-2023,01-31-2023
+ba04db77-02ea-4607-b073-8f1c974293d5,Profissional de reciclagem,PLENO,RH,01-31-2023,01-31-2023
+410dc928-ddc9-4731-9c1e-31525dcd8fa1,Mestre-de-obras,PLENO,Marketing,01-31-2023,01-31-2023
+f053e585-6cdc-49db-9bb2-d0595e3809e5,Zootecnista,PLENO,Vendas,01-31-2023,01-31-2023
+50a48792-149f-44a4-bee3-47b28e09632f,Tapeceiro,PLENO,Marketing,01-31-2023,01-31-2023
+6825ae8c-3bf3-4ee4-b071-126771aa2395,Profissional de comércio exterior,PLENO,Marketing,01-31-2023,01-31-2023
+8fd6d554-8150-4bc8-bf70-2354b23babfa,Laboratorista,PLENO,TI,01-31-2023,01-31-2023
+b3a25324-6f45-4499-8239-37aefd3f388a,Engenheiro de telecomunicações,PLENO,Vendas,01-31-2023,01-31-2023
+9878d25e-c759-46f5-b79b-2a91ab6b7e75,Supervisor,PLENO,Vendas,01-31-2023,01-31-2023
+ce6d554a-5c88-4e48-9769-ec0e3492adff,Atleta de tiro com arco,PLENO,Marketing,01-31-2023,01-31-2023
+566ca53d-bed3-4e43-80b9-80d6e08db277,Técnico em rede,PLENO,Vendas,01-31-2023,01-31-2023
+74a2273c-e0d1-440b-9928-c34e43c69bca,Neurologista,PLENO,Marketing,01-31-2023,01-31-2023
+8e62d150-0048-452f-b008-f7cbb57b8d3d,Agrônomo,PLENO,RH,01-31-2023,01-31-2023
+f12a15f6-5072-4a97-b9c2-7e7243196ccd,Líder comunitário,PLENO,Vendas,01-31-2023,01-31-2023
+c7b00567-1fb6-4da3-8e30-dd837e67bc57,Cartazeiro,PLENO,RH,01-31-2023,01-31-2023
+41709b72-88ae-4037-8739-31af698aee82,Lixeiro/Coletor de lixo,PLENO,RH,01-31-2023,01-31-2023
+603ac62a-0a4c-4e44-a841-407a80e9d113,Contabilista,PLENO,Marketing,01-31-2023,01-31-2023
+b0c62265-14cc-48e6-942a-b5a1826e03ab,Argumentista,PLENO,RH,01-31-2023,01-31-2023
+14233781-4535-4516-b0a0-fd0ad0d7c924,Tecnólogo em Ciências das plantas medicinais,PLENO,Marketing,01-31-2023,01-31-2023
+8d80fe73-6c1a-4f47-9440-e5a4c91fc8ff,Almirante,PLENO,TI,01-31-2023,01-31-2023
+11a13baf-2c73-4a29-8bf8-84d598b2a722,Engenheiro civil,PLENO,TI,01-31-2023,01-31-2023
+41f39ef5-0b3e-4787-b1d2-6489bdba1661,Lavador de veículos,PLENO,Vendas,01-31-2023,01-31-2023
+93a918fe-1263-4269-8761-d316448b87e4,Artesão,PLENO,TI,01-31-2023,01-31-2023
+1a0bc985-92ad-443d-a130-c3f79a1f2c29,Atleta de tiro com arco,PLENO,TI,01-31-2023,01-31-2023
+990b7931-8a5d-441f-930c-100fe375932e,Laboratorista,PLENO,RH,01-31-2023,01-31-2023
+f4169b28-4edf-487e-ac16-7fbc4ee08318,Apontador de mão-de-obra,PLENO,TI,01-31-2023,01-31-2023
+41e28a5c-35bc-4dd2-b3ff-64d0e29b6332,Rebarbador de metal,PLENO,TI,01-31-2023,01-31-2023
+78903fa8-8fe6-4819-b7fa-7ef869136fb2,Quadrinista,PLENO,RH,01-31-2023,01-31-2023
+071d2ce8-2b38-4d5a-8900-3a6580e8cc0c,Dublador,PLENO,Administrativo,01-31-2023,01-31-2023
+fc7c2819-cb6e-4515-9aed-f8d809eaaa15,Endodontista,PLENO,Marketing,01-31-2023,01-31-2023
+d0d0b22f-0abf-4087-9422-c2e9e7a9090d,Técnico em edificações,PLENO,Marketing,01-31-2023,01-31-2023
+0ae01885-2a94-4598-8881-12ac7cf2ceb5,Funileiro,PLENO,Administrativo,01-31-2023,01-31-2023
+d14caad9-54ef-4696-a72f-b14998521af8,Comprador,PLENO,Vendas,01-31-2023,01-31-2023
+0f6cfd40-2c96-4dd8-8dff-bf9341573de9,Co-piloto,PLENO,Vendas,01-31-2023,01-31-2023
+77474d00-9b40-4395-afda-7039787baeb7,Velejador,PLENO,Marketing,01-31-2023,01-31-2023
+682dec75-c04a-4e19-9393-7182020a2a5a,Músico,PLENO,RH,01-31-2023,01-31-2023
+cc54b9f8-f60b-4329-ab80-9e332189838c,Figurinista,PLENO,RH,01-31-2023,01-31-2023
+d46600d9-1530-4311-82e0-e69694a7afa3,Tecnólogo em navegação fluvial,PLENO,Marketing,01-31-2023,01-31-2023
+61931ed4-61b4-44c1-bad0-6df62f726a10,Serralheiro,PLENO,RH,01-31-2023,01-31-2023
+39390388-eb2b-4d30-975d-188b1fb0a5de,Mestre-de-obras,PLENO,Marketing,01-31-2023,01-31-2023
+288f3200-4175-42df-8ed7-ee711a840bc2,Educador,PLENO,RH,01-31-2023,01-31-2023
+e992e5de-2c9b-47c7-a124-840ad484135f,Taxidermista/Embalsamador,PLENO,RH,01-31-2023,01-31-2023
+8a58294a-5f27-4463-ad6e-dbda397522aa,Profissional de logística,PLENO,RH,01-31-2023,01-31-2023
+484cb77e-82b0-4a1b-9ce2-d4a82cf1b3a6,Empacotador,PLENO,RH,01-31-2023,01-31-2023
+cb4b78b9-653d-46bb-9350-ff684bcf876d,Cinematográfo,PLENO,TI,01-31-2023,01-31-2023
+a8faf06b-db18-4dc4-ba48-2a3a8f112ab6,Velejador,PLENO,RH,01-31-2023,01-31-2023
+c5cc6ccb-4c9b-40cc-9455-7ad78559ebd0,Arqueólogo,PLENO,Vendas,01-31-2023,01-31-2023
+83741604-a797-4222-b599-6881cf6d006a,Headhunter,PLENO,Marketing,01-31-2023,01-31-2023
+3034fa59-e317-4d33-95e2-fd0f2bc7f0e2,Urbanista,PLENO,TI,01-31-2023,01-31-2023
+cb281564-7236-4e98-a4fe-6b444ead0526,Gari,PLENO,Vendas,01-31-2023,01-31-2023
+91d99c8b-20a1-46cf-b70c-5187e68465c0,Juiz de direito,PLENO,Administrativo,01-31-2023,01-31-2023
+fad4c648-1461-4e5b-8221-83cafd826d41,Profissional de reciclagem,PLENO,RH,01-31-2023,01-31-2023
+e3231a3a-38e8-4860-be85-dc749c1d8dfd,Pecuarista,PLENO,RH,01-31-2023,01-31-2023
+e285eea1-8866-4737-8f39-c5da87bfbca3,Embalador,PLENO,Vendas,01-31-2023,01-31-2023
+4fd4ea39-a4aa-47cd-92f5-8a6e2d1842cd,Clínico geral,PLENO,TI,01-31-2023,01-31-2023
+6acd724e-8529-4faa-9e3c-82f1acd60214,Comissário de bordo,PLENO,RH,01-31-2023,01-31-2023
+820c4d7d-bdd1-41b9-a197-4c8aa8973edd,Tintureiro,PLENO,Vendas,01-31-2023,01-31-2023
+97ea7325-5c4a-4af0-989f-81ca04deb248,Taxidermista/Embalsamador,PLENO,TI,01-31-2023,01-31-2023
+24fbe635-0bfb-4f8e-a614-572fd26954b0,Cadista,PLENO,TI,01-31-2023,01-31-2023
+9c36666b-7d7e-48f1-86bb-7f9069eeba18,Zootecnista,PLENO,TI,01-31-2023,01-31-2023
+5871583d-7c53-46fc-8f18-554465435890,Modelista,PLENO,Administrativo,01-31-2023,01-31-2023
+308c480b-a8af-4c91-951e-682a38ae4c22,Capitão,PLENO,Marketing,01-31-2023,01-31-2023
+9625842e-e4ed-45c4-9ebd-089183a171ab,Gestor público,PLENO,Vendas,01-31-2023,01-31-2023
+00519ab4-1bfd-4e8c-8c05-dd27763b743c,Fisioterapeuta,PLENO,Administrativo,01-31-2023,01-31-2023
+f97f60bc-ff1a-4c48-a677-e5b4feb0bb00,Técnico em óptica,PLENO,Vendas,01-31-2023,01-31-2023
+4262ef96-a52b-4be1-aa18-d85c0c236767,Agrimensor,PLENO,RH,01-31-2023,01-31-2023
+ae168d54-a688-42d8-b9c2-17bf255f866e,Bedel,PLENO,RH,01-31-2023,01-31-2023
+f822bfb5-b1b2-430a-b1e2-29b4a9611b67,Operador de vídeo,PLENO,Administrativo,01-31-2023,01-31-2023
+e39164d8-5cb0-4f12-8f6a-d0f48faa3c63,Barman,PLENO,TI,01-31-2023,01-31-2023
+4dfbbbd0-178d-4240-8a84-6224a2a83410,Projetista mecânico,PLENO,RH,01-31-2023,01-31-2023
+bf87e6e0-fbb3-4bc3-a463-d8a56199fa14,Seringueiro,PLENO,Administrativo,01-31-2023,01-31-2023
+46784322-d243-46a4-ae4a-b467662b0713,Profissional de linguística,PLENO,Vendas,01-31-2023,01-31-2023
+2f32cb61-36ef-4f82-afd5-32f5bf15f8b4,Coveiro/Sepultador,PLENO,Vendas,01-31-2023,01-31-2023
+8038c4a0-2401-4b0b-9391-c5526c1978ec,Avalista,PLENO,Marketing,01-31-2023,01-31-2023
+9630b1be-3e1e-4e1e-b845-eff7e6edb7b3,Dançarino,PLENO,Administrativo,01-31-2023,01-31-2023
+ad47e4a2-6e0d-4df2-ab7e-847ce852d03a,Nefrologista,PLENO,Administrativo,01-31-2023,01-31-2023
+73b1e922-97b1-416f-b53e-b0abf7ea073f,Capataz,PLENO,TI,01-31-2023,01-31-2023
+de9e2b1e-a20a-46af-823d-d42d04ca1e80,Gandula,PLENO,RH,01-31-2023,01-31-2023
+663ec193-a0b9-4744-b9ed-bace814cf43c,Profissional de comércio exterior,PLENO,RH,01-31-2023,01-31-2023
+c5e339dc-bf6c-45c2-88f1-ad1522ce1471,Tecnólogo em silvicultura,PLENO,Marketing,01-31-2023,01-31-2023
+906e6c7e-c43d-422a-9a76-0af64561f49c,Retificador,PLENO,TI,01-31-2023,01-31-2023
+d7528b53-0523-42fe-9ecd-9ddc3bab770d,Revisor,PLENO,Administrativo,01-31-2023,01-31-2023
+45f3ddc7-ec26-4e3f-932a-e5b4a82e3550,Servente-de-obras,PLENO,Vendas,01-31-2023,01-31-2023
+0f8dbf21-f64d-4bad-92af-9eb06d9010ea,Massagista,PLENO,Vendas,01-31-2023,01-31-2023
+4b678ee6-df45-444d-8675-a0cdd16c4030,Cambista,PLENO,Vendas,01-31-2023,01-31-2023
+914d8c7a-16e5-4913-ae55-b5075cdcc0f0,Radiologista,PLENO,RH,01-31-2023,01-31-2023
+7765f263-0e97-449b-ba05-cc64bdc6968e,Garimpeiro,PLENO,TI,01-31-2023,01-31-2023
+88759704-8ac2-468b-a217-69d12536ff88,Gravurista,PLENO,RH,01-31-2023,01-31-2023
+2eba9074-899d-442a-a955-969d0cec9738,Engenheiro de transportes,PLENO,TI,01-31-2023,01-31-2023
+168fc012-4c3a-4087-a124-a6add55fb75c,Engraxate,PLENO,Marketing,01-31-2023,01-31-2023
+729003a2-f266-4208-ab3a-3c39169ff364,Agrimensor,PLENO,Vendas,01-31-2023,01-31-2023
+c919a8e0-52ea-4f26-b881-99ddb17383f1,Ourives,PLENO,Marketing,01-31-2023,01-31-2023
+4eafd0e5-5640-4e35-b9d1-54ed9a23d580,Psicopedagogo,PLENO,Marketing,01-31-2023,01-31-2023
+33de9cb3-ad81-423a-ac31-ee8c16244186,Advogado,PLENO,Administrativo,01-31-2023,01-31-2023
+157da90b-1c0e-400f-88b8-f77896c943b1,Petroleiro,PLENO,Marketing,01-31-2023,01-31-2023
+02f27fd8-596f-4ede-8b1e-10ae553b5abc,Técnico em radiologia,PLENO,Administrativo,01-31-2023,01-31-2023
+979a8597-0833-49ef-a92f-15c5f31040e7,Astronauta,PLENO,Marketing,01-31-2023,01-31-2023
+31c27e42-c92c-46a9-9617-e820c4b64264,Açougueiro,PLENO,Marketing,01-31-2023,01-31-2023
+27fb873f-bf31-42b3-855c-3f3351b4bfcd,Cientista político,PLENO,TI,01-31-2023,01-31-2023
+cf2bfbe3-9844-4ffa-853a-c54aea0bf10d,Designer de produto ou desenhista industrial,PLENO,Vendas,01-31-2023,01-31-2023
+278126dd-86e9-489c-a75d-88ef1386ab31,Gestor de tecnologia da informação,PLENO,RH,01-31-2023,01-31-2023
+ff203b16-1915-4bd8-a013-09ed03cfeed0,Boticário,PLENO,Administrativo,01-31-2023,01-31-2023
+1a1374c2-f3ea-4b60-a05e-23d941f7817a,Marceneiro,PLENO,RH,01-31-2023,01-31-2023
+802f5c2a-b704-43de-a5c8-323803a2fc7f,Contra regra,PLENO,RH,01-31-2023,01-31-2023
+e837022d-ed5d-4e18-8304-04007b1836fe,Ourives,PLENO,Vendas,01-31-2023,01-31-2023
+8835cbb7-2e8c-4561-9bac-741839a86fda,Fisiculturista,PLENO,Administrativo,01-31-2023,01-31-2023
+4224b64a-f52f-4b77-b340-5b5931b57fb3,Ortesista,PLENO,TI,01-31-2023,01-31-2023
+e86a3acb-fc32-476e-9c6f-23199a655419,Motofrete,PLENO,Administrativo,01-31-2023,01-31-2023
+828e918e-3ae0-4ef1-a7e3-f4455513115b,Teólogo,PLENO,RH,01-31-2023,01-31-2023
+12616289-cb87-48c9-bf59-2512aa42de39,Endocrinologista,PLENO,Administrativo,01-31-2023,01-31-2023
+85565374-0337-43c5-858a-331bb92673b2,Chargista,PLENO,Administrativo,01-31-2023,01-31-2023
+797cfc3c-fd62-4c1a-bf0d-5eac6f254c90,Lutador de luta livre,PLENO,Administrativo,01-31-2023,01-31-2023
+b73f3ea2-d42f-4c6b-8cbe-819839e4334c,Coach,PLENO,Marketing,01-31-2023,01-31-2023
+a280266f-8f89-4380-be4d-074fee084e4e,Teólogo,PLENO,RH,01-31-2023,01-31-2023
+b71a489b-26a6-4d1b-9a7c-538ca0e3ba54,Editor de mesa de corte,PLENO,Administrativo,01-31-2023,01-31-2023
+a74c70a0-be1a-413b-8687-b00681acac33,Instalador de linha telefônica,PLENO,Administrativo,01-31-2023,01-31-2023
+faeea36c-8ddb-474a-aefe-4c002950ac23,Embalador,PLENO,Administrativo,01-31-2023,01-31-2023
+79e1a580-d821-43bb-8e7e-ed3119f42048,Administrador público,PLENO,Vendas,01-31-2023,01-31-2023
+753b4b6f-e0fc-48bd-adff-b7accda1537e,Tecnólogo em rochas ornamentais,PLENO,Vendas,01-31-2023,01-31-2023
+70c3d1db-e763-4670-af8e-04dbf9418d24,Guarda ou policial rodoviário,PLENO,RH,01-31-2023,01-31-2023
+d7ffc977-0cc7-4dd0-b479-507e4b393619,Major,PLENO,RH,01-31-2023,01-31-2023
+01f89268-c7aa-41cd-8e05-1886ceb382ad,Passador,PLENO,Vendas,01-31-2023,01-31-2023
+c1d98eec-86f4-4748-855b-b0b494939936,Engenheiro agrícola,PLENO,Administrativo,01-31-2023,01-31-2023
+5f394f21-71d7-4e29-bc9b-942a2eb30c8d,Garimpeiro,PLENO,Marketing,01-31-2023,01-31-2023
+9dd4b25d-685f-4e4a-90cb-7238b745b5b1,Escrivão,PLENO,Marketing,01-31-2023,01-31-2023
+34fd817c-cfda-42e9-8ce6-78035d902235,Leiteiro,PLENO,RH,01-31-2023,01-31-2023
+e50c5ed8-9def-4f98-bbcb-a7099359e46e,Moldureiro,PLENO,Vendas,01-31-2023,01-31-2023
+b3c70cae-d9c5-4840-ac30-14fe475a0184,Cobrador de pedágio,PLENO,Administrativo,01-31-2023,01-31-2023
+d68c693c-dc79-4698-9384-e42b2e875a2b,Empregado doméstico,PLENO,TI,01-31-2023,01-31-2023
+376a9f85-1c77-4db0-a079-170a1e0d8f3d,Maquiador,PLENO,Administrativo,01-31-2023,01-31-2023
+fbe1d7e2-a0ce-4475-a0ca-78ed8259a882,Radioterapêutico,PLENO,Vendas,01-31-2023,01-31-2023
+65fc953b-a2a6-41dd-88a4-33367d8d9f69,Aeroviário,PLENO,RH,01-31-2023,01-31-2023
+39af8cbb-a232-4363-9ded-813093ca8d1d,Oculista,PLENO,Administrativo,01-31-2023,01-31-2023
+88b6e93e-40a7-4a1a-840a-498fa8546916,Investigador de Polícia,PLENO,Marketing,01-31-2023,01-31-2023
+1fdd02fe-e9b2-4cfb-b94e-a7bf0eae672a,Cadeirinha,PLENO,TI,01-31-2023,01-31-2023
+2d8d0a33-65f9-4393-926d-7c96c71eb3d9,Podólogo,PLENO,Administrativo,01-31-2023,01-31-2023
+51160626-a5d0-4db7-a149-9335134face6,Engenheiro de horticultura,PLENO,RH,01-31-2023,01-31-2023
+0d0e346b-ffc2-443e-96d5-6b98bdb23f61,Escriturário,PLENO,RH,01-31-2023,01-31-2023
+acf669a9-90dc-487f-a717-3bc2cff5502b,Orientador educacional,PLENO,Marketing,01-31-2023,01-31-2023
+c213f5a8-6bbf-417a-b8fe-74be83fd5d75,Mãe social,PLENO,Vendas,01-31-2023,01-31-2023
+4a133ac6-ca38-42ca-baba-d2fcc70b3d1a,Obstetra,PLENO,TI,01-31-2023,01-31-2023
+894f9b92-e863-43ff-b294-c2a1782c43f4,Moldador,PLENO,Administrativo,01-31-2023,01-31-2023
+02bd66c7-16c2-4747-a530-0b5b6b3aec4c,Pára-quedista,PLENO,RH,01-31-2023,01-31-2023
+0f2018ec-7f14-432e-b9c4-e43332cfc67c,Conferente de recebimento,PLENO,Vendas,01-31-2023,01-31-2023
+63639e4e-2578-4033-95b5-80d968ad3b8b,Meteorologista,PLENO,Administrativo,01-31-2023,01-31-2023
+5c33863a-2ef5-4761-8fb3-9db279df66a9,Transportador,PLENO,Marketing,01-31-2023,01-31-2023
+e08e678b-a31d-44ca-af05-ed5f672f60ec,Administrador público,PLENO,Vendas,01-31-2023,01-31-2023
+116086db-7264-46d5-adc1-0d8d126944b2,Profissional de informática,PLENO,RH,01-31-2023,01-31-2023
+b835feac-0674-42ff-8156-33408b801317,Controller,PLENO,RH,01-31-2023,01-31-2023
+0f8f95f6-6758-40d4-b0ce-e223f941eeab,Controller,PLENO,Vendas,01-31-2023,01-31-2023
+d22acd99-68ad-4a38-a323-4cf643f7a924,Operador de vídeo,PLENO,RH,01-31-2023,01-31-2023
+c58f62bf-dca8-4fb2-9761-b518bd3f3d8d,Letrista,PLENO,RH,01-31-2023,01-31-2023
+4a4e69b7-9494-48d8-a44d-da10410e751a,Auxiliar administrativo,PLENO,Marketing,01-31-2023,01-31-2023
+98facf72-6dfb-476b-956d-3cacd12884df,Cartunista,PLENO,Marketing,01-31-2023,01-31-2023
+d63cccd0-8391-4ce6-a7c7-c4efafea57eb,Comprador,PLENO,Vendas,01-31-2023,01-31-2023
+fe738fd8-9b24-4f78-ad8e-0dacde01243d,Meeiro,PLENO,Administrativo,01-31-2023,01-31-2023
+09534e15-fea5-4017-887e-898f50b6ab8e,Administrador de redes,PLENO,Marketing,01-31-2023,01-31-2023
+fe3f2804-5c54-401b-a86c-6ebf5d695cb7,Odontopediatra,PLENO,Administrativo,01-31-2023,01-31-2023
+56382f68-a1d8-44f1-86eb-401f0d0c5a40,Pedagogo,PLENO,RH,01-31-2023,01-31-2023
+f874e443-0aef-4da6-919b-1cfde8fa2bb0,Representante comercial,PLENO,RH,01-31-2023,01-31-2023
+fa263790-cfe0-4afc-ba9f-bcbd8fd4770d,Instrumentista musical,PLENO,Administrativo,01-31-2023,01-31-2023
+0f96f07d-9223-4608-94eb-284a949ad668,Engenheiro de segurança do trabalho,PLENO,RH,01-31-2023,01-31-2023
+a67dfb1e-5bbc-40d0-ad4d-5c79c6b312e9,Chargista,PLENO,Administrativo,01-31-2023,01-31-2023
+20a01375-c3d8-4089-9022-a5b45fd01f75,Embalador,PLENO,Vendas,01-31-2023,01-31-2023
+51d8c5b7-b1b3-4660-bdea-141f47732ef6,Profissional de hotelaria,PLENO,TI,01-31-2023,01-31-2023
+b2286955-164b-44f3-99e9-222f40c99d4f,Mensageiro,PLENO,Marketing,01-31-2023,01-31-2023
+290414f3-ac65-4dc7-aaf1-261cd811c0fe,Psicólogo,PLENO,Marketing,01-31-2023,01-31-2023
+08d799dc-3285-4b91-86dd-32f864b786c3,Tradutor,PLENO,RH,01-31-2023,01-31-2023
+3d848d90-ea7c-423e-aaf4-c325acc563de,Optometrista,PLENO,RH,01-31-2023,01-31-2023
+2bc277e9-511e-4870-828f-0f9e82529919,Médico cirurgião,PLENO,TI,01-31-2023,01-31-2023
+de1b7f5d-45bd-4c35-b91d-94bff48826ee,Corretor da bolsa de valores,PLENO,RH,01-31-2023,01-31-2023
+4756eec4-7525-441f-b441-242223648057,Geradorista,PLENO,Marketing,01-31-2023,01-31-2023
+b11e7922-0682-49b5-901c-ac408d226daf,Capelão,PLENO,Administrativo,01-31-2023,01-31-2023
+0ff23811-a75f-4267-a3bd-8af1fef48705,Tatuador,PLENO,Administrativo,01-31-2023,01-31-2023
+711b0c0c-5148-4cbb-a63f-5bb861908b9b,Classificador contábil,PLENO,RH,01-31-2023,01-31-2023
+4777be19-2e4e-4956-827d-5bb57a8d1984,Pizzaiolo,PLENO,RH,01-31-2023,01-31-2023
+53d5d2cd-1536-4913-b26f-68042856e9da,Profissional de educação física,PLENO,Administrativo,01-31-2023,01-31-2023
+48da4bfd-fcd1-4bcb-9d58-5f682a46ad2e,Tosador,PLENO,Administrativo,01-31-2023,01-31-2023
+d4bedc75-7510-4c28-8adc-9f8d63edffbe,Fresador,PLENO,Administrativo,01-31-2023,01-31-2023
+fb0222d2-7419-457f-8515-f14304bedce5,Apontador de mão-de-obra,PLENO,Marketing,01-31-2023,01-31-2023
+d32eb344-e989-4853-9181-28301b3908df,Radialista,PLENO,Administrativo,01-31-2023,01-31-2023
+10aea7c8-8a3d-4fa6-8c64-c6d6c2b681ea,Empregado doméstico,PLENO,Administrativo,01-31-2023,01-31-2023
+18343264-8a89-4396-b215-29a56d97f407,Psiquiatra,PLENO,RH,01-31-2023,01-31-2023
+d113798b-c12f-406b-9957-aa8430f861b1,Escultor,PLENO,RH,01-31-2023,01-31-2023
+b81da66f-b7fe-4808-9aa9-52cb18ed0f10,Mestre cervejeiro,PLENO,RH,01-31-2023,01-31-2023
+6f96754e-54ba-4e24-a5c2-22db5d7be431,Neurocirurgião,PLENO,RH,01-31-2023,01-31-2023
+e9e13e3b-66eb-4388-891c-fc96acda0668,Transcritor,PLENO,Vendas,01-31-2023,01-31-2023
+d8542cca-4019-4596-a041-26b885957033,Optometrista,PLENO,RH,01-31-2023,01-31-2023
+63a1080c-2b51-45ca-85bd-8017ddf9a4b6,Instrumentista musical,PLENO,Vendas,01-31-2023,01-31-2023
+12094079-9583-41a8-ae32-a619b6d55ddd,Ator,PLENO,TI,01-31-2023,01-31-2023
+a00e1314-97f9-4416-8dc8-0a032bbd0531,Engenheiro de ergonomia,PLENO,Administrativo,01-31-2023,01-31-2023
+fa333909-b256-45b2-a92f-3d82772d239a,Capelão,PLENO,Marketing,01-31-2023,01-31-2023
+01275af4-de66-4da2-82ca-2209ca4fd72b,Estivador,PLENO,RH,01-31-2023,01-31-2023
+d81830ea-ef32-4cca-9007-4acbc65b967f,Massagista,PLENO,Marketing,01-31-2023,01-31-2023
+1fade3ed-2698-4b9d-bcab-d76a889d796c,Historiador,PLENO,Marketing,01-31-2023,01-31-2023
+edfdfe53-8807-48ec-8d9e-56839e4ceaf0,Apontador de mão-de-obra,PLENO,RH,01-31-2023,01-31-2023
+b6f64147-9bc5-4bdc-9fe7-243d5f81b94b,Cancerologista ou Oncologista,PLENO,RH,01-31-2023,01-31-2023
+d7fc7a6e-b38f-431d-b9fd-132e238bef22,Profissional de reciclagem,PLENO,RH,01-31-2023,01-31-2023
+dc88a178-10bb-4f9d-89e8-f865d5ae55ad,Orientador educacional,PLENO,Vendas,01-31-2023,01-31-2023
+3267917f-8edb-4175-b5c1-216aa725727c,Contra regra,PLENO,TI,01-31-2023,01-31-2023
+c39b3fff-f3a2-41d3-9d28-5ad50a68cfb3,Terapeuta Holístico,PLENO,Vendas,01-31-2023,01-31-2023
+2de1e021-f959-421d-ab97-f43f8b3f1927,Figurante,PLENO,RH,01-31-2023,01-31-2023
+9456221f-319b-4d9c-a6d5-f89227e6bdd3,Engenheiro de manufatura,PLENO,RH,01-31-2023,01-31-2023
+bb57b39c-129b-402b-b29c-1ca0c7de2143,Radiologista,PLENO,TI,01-31-2023,01-31-2023
+afece5d9-7533-4821-890e-003c342c5d8a,Educador integrado à saúde pública,PLENO,Vendas,01-31-2023,01-31-2023
+476a92b0-73e4-4e0a-9b2c-05d74fdc7bb9,Porteiro,PLENO,Marketing,01-31-2023,01-31-2023
+64aaad82-8ca1-41ac-932f-6d2d45cafc65,Professor,PLENO,RH,01-31-2023,01-31-2023
+0f3f30f6-4e16-4ff4-b5a4-f11f93d78d01,Gerente de vendas,PLENO,Marketing,01-31-2023,01-31-2023
+c6e791d7-1c01-47da-b956-609d1d226b1e,Tecnólogo em desenvolvimento social,PLENO,Vendas,01-31-2023,01-31-2023
+94bc6cf2-6d0f-4422-a208-e788bac15734,Engenheiro sanitarista,PLENO,Vendas,01-31-2023,01-31-2023
+fa86c4f9-3009-4fba-a274-9eb916ce33c5,Jardineiro,PLENO,Administrativo,01-31-2023,01-31-2023
+33d0a4b4-fa81-4608-81bb-4c517233f8ce,Catador de material reciclável,PLENO,RH,01-31-2023,01-31-2023
+6495caf5-2578-482c-bfb0-a4faf341d463,Atuário,PLENO,TI,01-31-2023,01-31-2023
+1b76a745-b416-4d88-b96d-845579deb52a,Músico,PLENO,RH,01-31-2023,01-31-2023
+6e7cad3a-6865-45fd-b29a-770eb9c43caa,Broker/Corretor da bolsa de valores,PLENO,RH,01-31-2023,01-31-2023
+25614498-9787-417a-ad5b-519645e51ceb,Sexólogo,PLENO,Marketing,01-31-2023,01-31-2023
+93f3d708-750a-4d84-91eb-37ba41828a68,Ceramista,PLENO,Administrativo,01-31-2023,01-31-2023
+97c1d16d-2797-4cd9-a0d6-bf967046eb8b,Embalsamador,PLENO,RH,01-31-2023,01-31-2023
+1f7ecbb2-3bdc-44b5-9773-f29677d66239,Geólogo,PLENO,Administrativo,01-31-2023,01-31-2023
+dfa5ac37-806f-4235-b221-96a31bc4110c,Capitão,PLENO,Vendas,01-31-2023,01-31-2023
+d5311324-724a-4e28-af7f-7876450d535e,Técnico de gesso,PLENO,Marketing,01-31-2023,01-31-2023
+0572546b-04d5-41eb-bbc9-75f4ea64542f,Barbeiro,PLENO,Administrativo,01-31-2023,01-31-2023
+294a1c39-d60d-4ef5-8434-ca439ce9e594,Técnico em desporto,PLENO,Administrativo,01-31-2023,01-31-2023
+4e535816-903d-4bee-a692-e1763d93797b,Assessor parlamentar,PLENO,Vendas,01-31-2023,01-31-2023
+fadbba99-781c-48a0-b836-2d07455bb352,Atleta de canoagem,PLENO,Administrativo,01-31-2023,01-31-2023
+c50e99ea-cac5-47d3-8299-6aba30e929f2,Gestor público,PLENO,TI,01-31-2023,01-31-2023
+60b27b9d-0200-4809-bf72-b7864b69d733,Dublador,PLENO,Marketing,01-31-2023,01-31-2023
+d67df6a9-3443-40ea-b1eb-3ddac10d77eb,Engenheiro de petróleo,PLENO,TI,01-31-2023,01-31-2023
+6299147b-0a65-4092-ad44-29cd58889b12,Espeleologista,PLENO,TI,01-31-2023,01-31-2023
+08a77fa3-fd19-4e57-846a-90f7b3707b70,Ortopedista,PLENO,TI,01-31-2023,01-31-2023
+d80c6fab-cb1d-4c7f-8ed9-a53d078e4c69,Repositor,PLENO,Vendas,01-31-2023,01-31-2023
+84121c21-bc59-4b3c-9f2f-e8c6e6a09395,Produtor fonográfico,PLENO,Vendas,01-31-2023,01-31-2023
+2b73ba3c-ceaa-4aca-af5d-a706413f5111,Pescador,PLENO,Marketing,01-31-2023,01-31-2023
+d9d70319-2b39-4c1d-8f26-7eb9850ea64b,Contabilista,PLENO,RH,01-31-2023,01-31-2023
+9161d97b-7a87-4a4a-8560-0a4f442066db,Técnico em taquigrafia,PLENO,Vendas,01-31-2023,01-31-2023
+a270f3a3-6d54-40f9-9eb6-9c9263ee1cca,Técnico em segurança do trabalho,PLENO,RH,01-31-2023,01-31-2023
+912469c6-2aa3-4ca7-bd13-d31a5c571ee3,Governador,PLENO,TI,01-31-2023,01-31-2023
+d8c9b13c-0acf-4b85-8f14-34c63f5264a6,Editor de mesa de corte,PLENO,Marketing,01-31-2023,01-31-2023
+46a78534-c2d8-4acd-8da5-9719836a8348,Seringueiro,PLENO,Marketing,01-31-2023,01-31-2023
+a874fad8-f6dd-48ff-a01f-2919ad5e13c5,Naturólogo,PLENO,TI,01-31-2023,01-31-2023
+529bbe00-7034-40c2-93cf-7079d65c2c99,Grafologista,PLENO,Marketing,01-31-2023,01-31-2023
+25c0dc2e-0ee3-41db-83cc-9c96bb0877bd,Impressor,PLENO,TI,01-31-2023,01-31-2023
+dab1f73e-4e17-472b-bd85-6c6d3b37fd3d,Polidor de produção,PLENO,TI,01-31-2023,01-31-2023
+2ba8d041-44ab-45f7-9223-4af91d219bcb,Reumatologista,PLENO,TI,01-31-2023,01-31-2023
+586e06a9-4638-40e8-99d8-bb2c686bfef7,Panfleteiro,PLENO,Marketing,01-31-2023,01-31-2023
+cf96d4a6-73a1-4df4-bb16-a633977ee16b,Instalador de linha telefônica,PLENO,Marketing,01-31-2023,01-31-2023
+56d64c17-e891-41a2-8c87-c6aef728eb5b,Profissional de reciclagem,PLENO,Vendas,01-31-2023,01-31-2023
+e2ff114e-879e-4c66-9fac-1f1a460ec862,Somelier,PLENO,Marketing,01-31-2023,01-31-2023
+3d879485-3339-4e36-8b29-3035bfec907a,Escrivão,PLENO,Administrativo,01-31-2023,01-31-2023
+10793862-c523-45d3-8882-0eb4e7145097,Marechal,PLENO,RH,01-31-2023,01-31-2023
+1e4f5c4e-afff-4c22-908b-3d328d25ea6f,Aviador,PLENO,Marketing,01-31-2023,01-31-2023
+0e420d8f-c212-4e9d-b485-8c0ecc92fd61,Moldador,PLENO,RH,01-31-2023,01-31-2023
+2348b9d2-361a-4d81-8351-2f037a9ae871,Marcador de luz,PLENO,Vendas,01-31-2023,01-31-2023
+e57ca023-d7b2-4fb5-9e5f-8f662b1fdb8d,Triatleta,PLENO,TI,01-31-2023,01-31-2023
+22c9b2cc-cf99-47d1-aaa7-9e958fb8f5f4,Engenheiro de iluminação,PLENO,Marketing,01-31-2023,01-31-2023
+b70a74e7-5610-4771-bb11-8f45cb00b3df,Traumatologista,PLENO,Vendas,01-31-2023,01-31-2023
+80878af4-bc1a-458f-a124-a4919c97b317,Moldureiro,PLENO,Vendas,01-31-2023,01-31-2023
+8a8c77a3-c78d-4b33-9947-1f84462fe581,Senador,PLENO,Vendas,01-31-2023,01-31-2023
+5362d8dc-71cf-4f42-ae1a-75ffbd91e012,Copeiro,PLENO,RH,01-31-2023,01-31-2023
+945c66e6-7192-4e1e-867b-e543f9fc1ff7,Classificador contábil,PLENO,Administrativo,01-31-2023,01-31-2023
+17adc4f7-32e6-48e1-a592-001d06a95085,Traumatologista,PLENO,RH,01-31-2023,01-31-2023
+0e5148d9-ed11-4422-b6b0-1a0a1e7a3d87,Pediatra,PLENO,Administrativo,01-31-2023,01-31-2023
+35c6a945-1820-4920-b151-c62d0edd3fb9,Dogueiro,PLENO,Marketing,01-31-2023,01-31-2023
+27935573-74f1-4032-98a6-5a7ecb2bb351,Embaixador,PLENO,Marketing,01-31-2023,01-31-2023
+58232e97-014c-476f-9f92-cf12be4ebb7f,Cientista,PLENO,Administrativo,01-31-2023,01-31-2023
+50131052-1324-43c6-8480-7ad6a44e8364,Tecnólogo em negócios imobiliários,PLENO,Administrativo,01-31-2023,01-31-2023
+79ea6b49-53f3-4747-a487-55953545602c,Caça-talentos/Olheiro,PLENO,Vendas,01-31-2023,01-31-2023
+3432bf08-ec84-4c53-9bc0-f2ff722658a6,Ombudsman,PLENO,TI,01-31-2023,01-31-2023
+8a58f6fd-238c-4bc4-b54d-27fa6fbf8f85,Árbitro e mediador,PLENO,Marketing,01-31-2023,01-31-2023
+8064aec5-2517-4f95-9758-6df4e17f09a5,Profissional de educação física,PLENO,Marketing,01-31-2023,01-31-2023
+f4427f85-46eb-454c-a644-467282a5c3d0,Fisioterapeuta,PLENO,RH,01-31-2023,01-31-2023
+76ed18b3-e10e-44f8-a9c5-e92629b00079,Optometrista,PLENO,Marketing,01-31-2023,01-31-2023
+87a26094-dd16-4ea2-b873-6814ef33f31a,Mestre-de-obras,PLENO,Vendas,01-31-2023,01-31-2023
+e1910957-0f2c-4035-96e7-446713bb5a5f,Gerente de banco,PLENO,TI,01-31-2023,01-31-2023
+2968e228-313b-4680-b337-4d3e519bdcff,Lamboteiro,PLENO,Administrativo,01-31-2023,01-31-2023
+01fb6a0b-3752-41b6-a7f6-b809be559939,Político,PLENO,Vendas,01-31-2023,01-31-2023
+010b4e87-06d1-40da-894d-de3470a844ba,Profissional de áudio,PLENO,Vendas,01-31-2023,01-31-2023
+d84018af-eeba-4a1c-bad1-73101fd4072e,Policial civil,PLENO,Vendas,01-31-2023,01-31-2023
+dc5d551b-569f-4d43-becc-4b9d0cad3fe3,Garçom,PLENO,RH,01-31-2023,01-31-2023
+91bd7b82-7c60-44ec-b190-893da86a52ef,Atleta de nado sincronizado,PLENO,RH,01-31-2023,01-31-2023
+119e1462-d6ce-4f55-ba00-ce06b413874c,Copeiro,PLENO,Vendas,01-31-2023,01-31-2023
+f108b8cc-68e3-4931-b6ea-802309bab081,Somelier,PLENO,RH,01-31-2023,01-31-2023
+0525641e-defa-482b-a45e-938d28a467f4,Cobrador de pedágio,PLENO,TI,01-31-2023,01-31-2023
+da8e98ad-e1a4-4894-ab72-08b41563f1c4,Corretor da bolsa de valores,PLENO,Administrativo,01-31-2023,01-31-2023
+cd01e4ef-6fca-47df-81db-95dcb4414186,Aeroviário,PLENO,Administrativo,01-31-2023,01-31-2023
+c2ef4315-50b7-4f48-9858-343c557a1ec4,Gestor de recursos humanos,PLENO,Marketing,01-31-2023,01-31-2023
+a725fb2f-7266-481d-af54-5a5e0792508a,Administrador público,PLENO,Marketing,01-31-2023,01-31-2023
+043224f0-2139-45a8-9285-0b1e67b60f4c,Estoquista,PLENO,Marketing,01-31-2023,01-31-2023
+56e07b0d-9d5f-4087-9b21-41613824f453,Portuário,PLENO,TI,01-31-2023,01-31-2023
+dfd5f9f6-697d-46df-8009-3adecd937ca9,Confeiteiro,PLENO,Marketing,01-31-2023,01-31-2023
+241b0925-0b5e-4147-a78b-f795e39af247,Artista plástico,PLENO,Administrativo,01-31-2023,01-31-2023
+b7870bd8-0a92-43ec-9cd6-9988c9b2ba26,Caixa,PLENO,Vendas,01-31-2023,01-31-2023
+375d22e8-7cfe-4cea-b291-3a128b5ce505,Pedicure,PLENO,Administrativo,01-31-2023,01-31-2023
+35faf496-3285-4698-b3eb-56a383e382ab,Psicomotricista,PLENO,Marketing,01-31-2023,01-31-2023
+3fa39cea-d276-45e1-a3d7-a562625dad1e,Notário,PLENO,Administrativo,01-31-2023,01-31-2023
+586fb009-11ca-4de1-b954-5cb9b0172891,Taifeiro,PLENO,RH,01-31-2023,01-31-2023
+dfe04bc8-f4a5-45e8-8a47-18b240504062,Mecânico,PLENO,Administrativo,01-31-2023,01-31-2023
+ee16bc00-6698-4007-8fa6-a0bc8eb4ea39,Promotor público/de justiça,PLENO,RH,01-31-2023,01-31-2023
+64ad4af4-8096-476e-9453-96b2e1007d67,Gandula,PLENO,RH,01-31-2023,01-31-2023
+dc861c0d-0adb-428b-b219-ab42ea931b3e,Laboratorista,PLENO,TI,01-31-2023,01-31-2023
+5552b938-9e71-482a-9948-d6415e9c054e,Caldeireiro,PLENO,RH,01-31-2023,01-31-2023
+e588e575-ac54-4399-afcf-54914bc89b47,Ambulante,PLENO,Vendas,01-31-2023,01-31-2023
+d885416f-0971-45d6-8c45-cf8a52881145,Ginecologista,PLENO,RH,01-31-2023,01-31-2023
+89686e77-a3e7-41c2-aab6-4d9ef1160e51,Plastimodelista,PLENO,RH,01-31-2023,01-31-2023
+358f00eb-7106-48d0-bdf3-b04b88f457a3,Regente,PLENO,TI,01-31-2023,01-31-2023
+97471606-4170-437b-bcf5-c29d776ef978,Empacotador,PLENO,TI,01-31-2023,01-31-2023
+63beeacb-6c29-4d00-8ade-a659c5f93db3,Bibliotecário,PLENO,Marketing,01-31-2023,01-31-2023
+f41c9e6d-16ee-43da-be23-bf0b8881028a,Maquiador,PLENO,Vendas,01-31-2023,01-31-2023
+31c25234-c538-482b-be60-88de6d53bb81,Aeromoça,PLENO,RH,01-31-2023,01-31-2023
+df4d909e-586d-44fa-a7c2-7796bdd0f638,Técnico em desporto,PLENO,Marketing,01-31-2023,01-31-2023
+5ec55181-cbe6-493f-8bed-835ac5238c67,Maitre,PLENO,RH,01-31-2023,01-31-2023
+ec608764-08ef-4368-b268-570ad72f7738,Transportador,PLENO,TI,01-31-2023,01-31-2023
+3d9547c9-d23c-4b37-a99e-b7bf93cf8831,Médico geneticista,PLENO,RH,01-31-2023,01-31-2023
+8e0d0d81-a191-4a1a-9f69-de695a170c5f,Cobrador de pedágio,PLENO,Vendas,01-31-2023,01-31-2023
+4234dbf1-ad14-4fbf-8aa3-ae51e16c8981,Administrador de redes,PLENO,Vendas,01-31-2023,01-31-2023
+cff79754-a25e-4774-9440-02bfcb1640a6,Modelista,PLENO,TI,01-31-2023,01-31-2023
+4c7f91d5-c314-46d4-9941-64ce75d1e9f4,Terapeuta ocupacional,PLENO,Marketing,01-31-2023,01-31-2023
+9d8fd434-52e5-47fb-a634-1445dea9061a,Garimpeiro,PLENO,Vendas,01-31-2023,01-31-2023
+2da301f6-3e81-49b2-85a9-ff791eb4c06b,Arquiteto,PLENO,TI,01-31-2023,01-31-2023
+60ca9c34-e09a-43f5-b2b2-478d8d0b489c,Assistente de direção,PLENO,Marketing,01-31-2023,01-31-2023
+33c999ed-3897-4cd6-ae43-6be14eacfc3f,Escrivão,PLENO,Administrativo,01-31-2023,01-31-2023
+5e070503-4601-46a7-aa90-8475a0d962d2,Patologista,PLENO,Vendas,01-31-2023,01-31-2023
+4ecfc16a-2548-46aa-8385-aed9685f84e0,Engraxate,PLENO,RH,01-31-2023,01-31-2023
+3d214e0f-6fa1-4960-88b4-e4f3f652a460,Esteticista,PLENO,RH,01-31-2023,01-31-2023
+4539a5c1-f519-4b66-a322-0c488366b8e6,Coordenador,PLENO,Vendas,01-31-2023,01-31-2023
+7f35937d-1930-48d7-957f-8cb8b281d805,Cientista de alimentos,PLENO,Marketing,01-31-2023,01-31-2023
+52583100-5b08-4787-9b9d-926af1cc5a6d,Windsurfer,PLENO,RH,01-31-2023,01-31-2023
+abeff159-8b10-4e23-86b0-fc9f1820fadb,Laboratorista,PLENO,Vendas,01-31-2023,01-31-2023
+53e113bf-a477-435c-9938-b087519f9ae9,Construtor,PLENO,TI,01-31-2023,01-31-2023
+aa23e1d0-97b0-42a7-9df7-93adb0c15433,Pizzaiolo,PLENO,Vendas,01-31-2023,01-31-2023
+f2819f95-78c4-4ede-bbb3-668f95b4f882,Administrador de redes,PLENO,RH,01-31-2023,01-31-2023
+a884b1b6-1001-41c3-9048-b0bfced87baf,Preparador de máquinas,PLENO,Marketing,01-31-2023,01-31-2023
+b37a20a1-8c22-417a-8637-3f48110337cd,Jogador de boliche,PLENO,Marketing,01-31-2023,01-31-2023
+b3fa04ca-e70f-4bcc-843c-e2edc2bae233,Timoneiro,PLENO,Marketing,01-31-2023,01-31-2023
+e4a0fc45-d3ef-401a-8015-c2a0477563cb,Mãe social,PLENO,Administrativo,01-31-2023,01-31-2023
+27e3c331-4d39-46aa-afcd-1d49bffe16d5,General,PLENO,Administrativo,01-31-2023,01-31-2023
+e1f39835-c186-4a9d-a9bd-62e3dc47518c,Guitarrista,PLENO,Administrativo,01-31-2023,01-31-2023
+7e9f684a-d1a6-40de-907c-3809fd575179,Cobrador de pedágio,PLENO,Vendas,01-31-2023,01-31-2023
+3c6c212d-ee59-4a10-ba1a-86544a523291,Especialista em agronegócios,PLENO,RH,01-31-2023,01-31-2023
+8fc8298f-247c-48b4-984d-d92d2a46606a,Marketeiro,PLENO,TI,01-31-2023,01-31-2023
+2b6fe0da-8138-48aa-a9b4-7cf6ba1bf92e,Mecânico de vôo,PLENO,TI,01-31-2023,01-31-2023
+5baa64f6-6faa-48f0-9e1c-9475019b5971,Quitandeiro,PLENO,RH,01-31-2023,01-31-2023
+ba44cdf9-6f9b-4400-b6a0-4f0b72f929d0,Remador,PLENO,Vendas,01-31-2023,01-31-2023
+51c923f8-1323-4025-b34c-22fb78c30bd6,Profissional de relacionamento com investidores RI,PLENO,TI,01-31-2023,01-31-2023
+18ae79e7-1f66-461b-8d5d-a2b5b0ce79ce,Gastrônomo,PLENO,RH,01-31-2023,01-31-2023
+e6b207fb-3722-4aeb-aaf5-d4cd3c79b717,Médico legista,PLENO,RH,01-31-2023,01-31-2023
+c8732b64-76ae-4dca-81ad-56aeadc0c214,Engenheiro de supply chain ou logística,PLENO,Marketing,01-31-2023,01-31-2023
+4534eb4f-c59a-4ca9-ad01-a920a3fa24e1,Engenheiro de transportes,PLENO,RH,01-31-2023,01-31-2023
+ba796d4e-2884-45f6-85bf-a694a8f1353e,Remador,PLENO,Marketing,01-31-2023,01-31-2023
+3845a675-3182-477b-a8c1-6727b65c399f,Lutador de kung fu,PLENO,Vendas,01-31-2023,01-31-2023
+1b8c6e9b-26bb-429d-a6bd-e76c0cbedd63,Faxineiro,PLENO,TI,01-31-2023,01-31-2023
+9472350f-02b1-4ead-a387-256303cdf8d3,Engenheiro industrial,PLENO,Marketing,01-31-2023,01-31-2023
+081f8c30-7413-4708-9b3e-917fc769aadf,Sacoleira,PLENO,TI,01-31-2023,01-31-2023
+9e2a16c0-7c06-4558-8259-096876ae8194,Coordenador,PLENO,TI,01-31-2023,01-31-2023
+b2ecd705-39b3-4cab-aa71-7c3d593d08fc,Dedetizador,PLENO,Marketing,01-31-2023,01-31-2023
+62c48fa2-187c-41f8-9b28-f468e47caf3a,Técnico em edificações,PLENO,Marketing,01-31-2023,01-31-2023
+f93bf33a-2d19-42a4-9389-1e0205c9bb07,Engenheiro de produção agroindustrial,PLENO,Administrativo,01-31-2023,01-31-2023
+0f4e0c71-c45f-4eed-adeb-3c64689fdecf,Projetista mecânico,PLENO,TI,01-31-2023,01-31-2023
+e5286b2f-bee9-4e94-89fb-466b08a2dda8,Imunologista,PLENO,RH,01-31-2023,01-31-2023
+38970800-7e4a-49b7-90aa-776b62728a2a,Barbeiro,PLENO,Administrativo,01-31-2023,01-31-2023
+9f9fc191-3379-4807-a3e3-1bcd6342d664,Engenheiro de horticultura,PLENO,Administrativo,01-31-2023,01-31-2023
+ba8e2286-f5d1-4dd1-b0a4-9ac87f5dd865,Engenheiro de produção agroindustrial,PLENO,RH,01-31-2023,01-31-2023
+d5776b88-a1ec-462c-b06d-cb0545b446d7,Luthier,PLENO,Administrativo,01-31-2023,01-31-2023
+d75b3041-45e8-484e-8f2f-c754b4e4856a,Defensor Público,PLENO,RH,01-31-2023,01-31-2023
+8d9c6a30-c097-46c5-b25b-e25bd1aba572,Empregado doméstico,PLENO,Administrativo,01-31-2023,01-31-2023
+aec46cd9-d023-417a-b3ad-e3b9e2a6fa2b,Prático,PLENO,RH,01-31-2023,01-31-2023
+9a1fb8f7-ed80-4ca8-b068-60319279cb10,Cientista da informação e documentação,PLENO,Administrativo,01-31-2023,01-31-2023
+82465ff3-dabe-4a4e-80af-0a1429aa36bd,Luthier,PLENO,RH,01-31-2023,01-31-2023
+54caca72-c3d2-4d95-ae58-95b1422ecd3a,Militar do Exército,PLENO,RH,01-31-2023,01-31-2023
+e1a7238a-6caf-4490-ba24-e34c634f6b67,Coach,PLENO,RH,01-31-2023,01-31-2023
+eed97939-59e7-45ae-8af6-785185c7b935,Psicomotricista,PLENO,Vendas,01-31-2023,01-31-2023
+23d116fb-b245-48f5-83d8-18f4d3365aa4,Lapidário,PLENO,Administrativo,01-31-2023,01-31-2023
+e424c51f-5382-4993-98f8-44bab61a0058,Angiologista,PLENO,Marketing,01-31-2023,01-31-2023
+2fa733cc-2396-47b3-b198-2681f06dbe9d,Caça-talentos/Olheiro,PLENO,RH,01-31-2023,01-31-2023
+ded608d4-446c-49f3-a4b2-d4cbf6e47c9b,Parteira tradicional,PLENO,Vendas,01-31-2023,01-31-2023
+2ce868a2-4ca0-4318-a087-754a4c7119bd,Mágico,PLENO,Marketing,01-31-2023,01-31-2023
+1bd2767b-1fd3-4f37-8c45-59eebe092459,Instalador de painéis,PLENO,RH,01-31-2023,01-31-2023
+182ac513-2ece-4fe6-a150-00d1ec9204d7,Engenheiro acústico,PLENO,Administrativo,01-31-2023,01-31-2023
+b48d5af0-c813-4c15-92c2-a6b07f4a1f29,Capataz,PLENO,Marketing,01-31-2023,01-31-2023
+7616c4ae-39ed-4484-aa29-7f4b75a038bc,Profissional de tecnologia de laticínios,PLENO,Administrativo,01-31-2023,01-31-2023
+fea4ffec-6fe6-40a1-b8b9-1b7be5605cc9,Síndico,PLENO,Vendas,01-31-2023,01-31-2023
+fc4a4a3b-8f49-4e19-999d-ca3a20284a19,Afiador de ferramentas,PLENO,Administrativo,01-31-2023,01-31-2023
+6d2eb13d-c804-425a-a3b3-2639a73404aa,Porteiro,PLENO,TI,01-31-2023,01-31-2023
+82e3ea48-0136-4204-be9f-dddc8b0cfece,Embalsamador,PLENO,RH,01-31-2023,01-31-2023
+7ac8c638-deb3-41ac-91ff-e1df59c675e5,Armeiro,PLENO,RH,01-31-2023,01-31-2023
+9806f231-fd2f-44d9-997f-368af9cbfbf8,Técnico em tratamento de água,PLENO,TI,01-31-2023,01-31-2023
+0fc3f79b-36e6-4c42-9930-34012cbeab9e,Estofador,PLENO,Marketing,01-31-2023,01-31-2023
+078019f7-93d0-4d18-80d6-edcc7dc331fb,Gestor público,PLENO,Administrativo,01-31-2023,01-31-2023
+96bb26d8-a03e-4ce0-8dab-a7206f99434c,Tecnólogo em produção de bebidas,PLENO,Administrativo,01-31-2023,01-31-2023
+05c8b7a5-1f5d-4a84-bd49-a010d0c20caf,Jogador de bocha,PLENO,RH,01-31-2023,01-31-2023
+f5f1caf3-ad17-4bef-9b19-145dbcbf1d0b,Comerciante,PLENO,Vendas,01-31-2023,01-31-2023
+42e29a96-072a-4e6e-a62b-b54807ab50b9,Enfermeiro,PLENO,Administrativo,01-31-2023,01-31-2023
+e32ffe53-6944-4981-b193-ff37524d104b,Diretor de cinema,PLENO,Marketing,01-31-2023,01-31-2023
+ca70d828-7fe1-4955-b5f4-92a80def64b5,Educador integrado à saúde pública,PLENO,RH,01-31-2023,01-31-2023
+b57e6031-357e-443e-982d-12be50e5a565,Caça-talentos/Olheiro,PLENO,Marketing,01-31-2023,01-31-2023
+2268f625-a44b-4e4c-a4c5-8164e7f3a3c2,Deputado,PLENO,Administrativo,01-31-2023,01-31-2023
+a0b99044-d38f-4a0d-b591-28ba8c1dae36,Ombudsman,PLENO,Marketing,01-31-2023,01-31-2023
+6d9a779c-90a2-4149-ac52-427e99e94ca4,Tabelião,PLENO,Vendas,01-31-2023,01-31-2023
+0af118ed-69f6-49fb-ab98-71ebf2a63791,Ambulante,PLENO,RH,01-31-2023,01-31-2023
+c59b3623-7672-4d4f-a985-cedbd22a9792,Técnico tributarista,PLENO,TI,01-31-2023,01-31-2023
+ebef2e42-f63f-4902-a0f5-f6cf4743b6ed,Turismólogo,PLENO,Vendas,01-31-2023,01-31-2023
+89450a78-d99d-4658-8bb7-d73d1527d7d4,Professor,PLENO,TI,01-31-2023,01-31-2023
+f30ce5b9-0406-4990-8992-04937b1ddd55,Neonatologista,PLENO,Marketing,01-31-2023,01-31-2023
+5f1f8cfb-a93a-4dbf-b312-ebc2641d3d0e,Físico nuclear,PLENO,Administrativo,01-31-2023,01-31-2023
+8462d817-d70b-43f3-b4d6-bec92d36d5e6,Rebarbador de metal,PLENO,Vendas,01-31-2023,01-31-2023
+950c7c7e-af6e-415f-a45e-aaf6c522d7b0,Feirante,PLENO,RH,01-31-2023,01-31-2023
+c459abc5-c7d9-43c5-996a-4cd8f0f3bb2c,Dublê,PLENO,RH,01-31-2023,01-31-2023
+f67658d3-868f-4acb-bad8-971df29a73ae,Museólogo,PLENO,TI,01-31-2023,01-31-2023
+fb2e923a-e1c1-46e1-b7ca-bb2a19366779,Cartazeiro,PLENO,Marketing,01-31-2023,01-31-2023
+2470ef27-dead-4529-94e6-47126bceed21,Alpinista,PLENO,Administrativo,01-31-2023,01-31-2023
+22f4f6a8-26fb-45be-96d8-4eb782738d55,Editor,PLENO,TI,01-31-2023,01-31-2023
+5cd008d5-d01a-46a8-b6dd-e766d2448781,Borracheiro,PLENO,Administrativo,01-31-2023,01-31-2023
+e328d8b3-d772-4623-99e1-3d128404443d,Especialista em agronegócios,PLENO,TI,01-31-2023,01-31-2023
+4ac7ee60-72ad-4880-b617-ef9cd5dcd330,Ecólogo,PLENO,RH,01-31-2023,01-31-2023
+1bc66edc-75a6-4aa4-892a-795d5303a278,Peixeiro,PLENO,Administrativo,01-31-2023,01-31-2023
+79f8bcf6-a8c2-4779-b560-be4750b749d9,Carnavalesco,PLENO,RH,01-31-2023,01-31-2023
+7fad7969-d404-4cf5-99da-e3a10f83096c,Webdesigner,PLENO,TI,01-31-2023,01-31-2023
+6914ade4-1749-4d54-95ef-329d31cfcaa7,Lavador de veículos,PLENO,Administrativo,01-31-2023,01-31-2023
+a3e25f76-fccc-4e6f-bf86-d694afe25efd,Atleta de canoagem,PLENO,TI,01-31-2023,01-31-2023
+a1b4ca86-8ffc-44e5-849f-a7f1a0467ea4,Montador de negativos,PLENO,RH,01-31-2023,01-31-2023
+9a40c64d-3a7e-438c-856e-af83c35a59bc,Gestor ambiental,PLENO,Administrativo,01-31-2023,01-31-2023
+390a3244-7130-41d5-9985-76d60b0dd465,Endocrinologista,PLENO,Administrativo,01-31-2023,01-31-2023
+902daabf-304a-4372-a994-f524e9d18cc0,Odontologista estético,PLENO,TI,01-31-2023,01-31-2023
+503eba91-40a4-41be-a0ba-68121d038d73,Tecnólogo em navegação fluvial,PLENO,RH,01-31-2023,01-31-2023
+b26ae910-1ec7-4391-9a0c-ebc94fe13185,Profissional de relações internacionais,PLENO,Administrativo,01-31-2023,01-31-2023
+7c5891c6-3730-47ab-8f0d-030149ecbcc4,Chapeiro,PLENO,Marketing,01-31-2023,01-31-2023
+cba6bcea-52c5-4a78-b332-783c7ebe308f,Químico,PLENO,TI,01-31-2023,01-31-2023
+a28a07fa-d8da-4959-a876-2d3c205b8fd2,Agente comunitário de saúde,PLENO,Vendas,01-31-2023,01-31-2023
+6617dd2d-5556-444c-b5a4-a6f57e81c7bd,Jogador de golfe,PLENO,Marketing,01-31-2023,01-31-2023
+028335f9-bd6f-4147-9adc-7ebdfb581dcf,Levantador de peso,PLENO,RH,01-31-2023,01-31-2023
+63321bb5-c54d-4fe5-8cb2-7fd6fb4b46a8,Afiador de ferramentas,PLENO,Marketing,01-31-2023,01-31-2023
+c0134f35-221a-45e1-9424-a6a48a1eb568,Gastrônomo,PLENO,Administrativo,01-31-2023,01-31-2023
+77f7f3ae-ff41-4a2d-a8a7-a44319d8611f,Programador,PLENO,RH,01-31-2023,01-31-2023
+7f51167c-68a4-4bc7-80dd-2428db34fd7c,Babysitter,PLENO,Administrativo,01-31-2023,01-31-2023
+1d503f30-2377-4f48-a07a-340725fe0c17,Técnico de gesso,PLENO,Administrativo,01-31-2023,01-31-2023
+f92468bd-73df-43ac-85f7-dd45b7eb0a14,Borracheiro,PLENO,Administrativo,01-31-2023,01-31-2023
+3136e338-ed23-4862-a966-eb11cd376228,Lancheiro,PLENO,Marketing,01-31-2023,01-31-2023
+8e6917e4-2bc1-41db-9ff9-f418338bf586,Engenheiro de supply chain ou logística,PLENO,Marketing,01-31-2023,01-31-2023
+45127e3d-d6e9-4e86-ae47-64789d470865,Artista de circo,PLENO,Vendas,01-31-2023,01-31-2023
+3551146c-1a92-4a76-ba0c-ed8fc3c9a6b7,Sonoplasta,PLENO,TI,01-31-2023,01-31-2023
+a94d21ad-1886-4c40-8f2d-be48d13ad508,Cozinheira,PLENO,TI,01-31-2023,01-31-2023
+df1a0ea6-7d83-49f3-8750-ff7f326ed1ac,Mecânico,PLENO,Administrativo,01-31-2023,01-31-2023
+ee1723a6-b106-434b-9e58-65d5cb090445,Cartunista,PLENO,Marketing,01-31-2023,01-31-2023
+7385a1c0-91a8-410f-b81a-fcfbb901d8a8,Penhorista,PLENO,TI,01-31-2023,01-31-2023
+1ba26f0d-f25e-4544-888f-7fefd8062e2a,Toxicologista,PLENO,Marketing,01-31-2023,01-31-2023
+261b7ac9-6383-4ad0-82d2-359f4a1fa636,Sonoplasta,PLENO,Administrativo,01-31-2023,01-31-2023
+488f8806-aece-469a-b1ba-209b52622d20,Profissional de recursos humanos,PLENO,Administrativo,01-31-2023,01-31-2023
+9230d08c-3f41-47fd-aefb-033a43ae93b3,Carpinteiro,PLENO,Marketing,01-31-2023,01-31-2023
+890e7d4e-7b9d-4f03-975f-d791fbf1887f,Epidemiólogo,PLENO,RH,01-31-2023,01-31-2023
+dbafb7ae-0613-4eef-b26b-d61711e0c5c0,Técnico em agropecuária,PLENO,Marketing,01-31-2023,01-31-2023
+70f4f3eb-2992-4937-95e7-3c5aa2e0ccdc,Cantor,PLENO,TI,01-31-2023,01-31-2023
+42d3aee0-ec9a-44da-a641-a1b86e43227e,Profissional de rádio e tv,PLENO,RH,01-31-2023,01-31-2023
+ddd0a56b-c855-4fa6-bb40-b6c0aa818b3b,Controller,PLENO,RH,01-31-2023,01-31-2023
